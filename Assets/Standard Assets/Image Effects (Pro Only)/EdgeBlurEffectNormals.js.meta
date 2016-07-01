@@ -1,0 +1,11 @@
+fileFormatVersion: 1
+guid: 4fc4c2fff9a564b9aa966b3d9ee24c18
+MonoImporter:
+  importerVersion: 1
+  defaultReferences:
+    edgeDetectHqShader: {fileID: 4800000, guid: 486c935c7fbf94528b2c56c957829fb6,
+      type: 1}
+    edgeBlurApplyShader: {fileID: 4800000, guid: 4daf2d9a9ba0a407a9e1958779cfdc83,
+      type: 1}
+    showAlphaChannelShader: {fileID: 4800000, guid: da310021e2a4142429d95c537846dc38,
+      type: 1}

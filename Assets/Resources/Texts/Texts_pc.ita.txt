@@ -1,0 +1,37 @@
+﻿
+#override for PC
+
+01140015	+50% DENARO   +50% ESPERIENZA  \n +PELLI PREMIUM   +CARATTERISTICHE PREMIUM
+
+00106042	Fai clic sulle armi \n per avviare la ricerca
+
+00114000	Questa è l'area ricerca. Qui puoi sviluppare o aggiornare armi nuove, più potenti, elementi o perfino abilità dei giocatori (vantaggi) per il denaro di gioco che hai guadagnato. Questi sono adattamenti piccoli ma cruciali che possono alterare notevolmente la giocabilità. E' basato su una struttura ad albero, quindi devi prima ricercare gli elementi base in alto per poter ottenere le tecnologie più avanzate in fondo. Per ricercare qualcosa, basta fare clic sull'elemento selezionato e comparirà una finestra di pop-up.
+
+02040240	Da qui puoi aggiungere gli amici. \n\n Devi giocare al gioco \n per ricevere l'elenco degli altri giocatori. \n\n Puoi sempre aggiungere i singoli amici manualmente \n se conosci i loro nomi utente. \n Puoi farlo facendo clic sul tasto "aggiungi nome utente"qui sotto.
+
+00211001	L'oro resta un bene di valore. Dato che non è una valuta comune nel mondo di Shadowgun, può essere scambiato con elementi esclusivi come Cappelli o Pelli.
+
+00502047	(Fai clic sull'immagine per ottenere il menu corretto)
+
+09960092	Un vero guerriero ha un nome che alla gente resta impresso! \n Facendo clic sullo PSEUDONIMO nella barra superiore (lampeggiante), puoi accedere alle impostazioni del tuo profilo da dove puoi modificare il tuo PSEUDONIMO o la PASSWORD in qualsiasi momento.
+
+09960002	Lo so che non vedi l'ora di metterti a sparare. \n Allora dacci sotto... \n Prima devi imparare come giocare al COMBATTIMENTO MORTALE. \n Fai clic sul tasto (lampeggiante) GIOCO...
+
+09960012	Okay, ora sei nel menu Generazione. \n Ti basta fare clic su GENERAZIONE (lampeggiante) nella sezione in basso a destra del display e sei pronto all'azione!
+
+09960032	Sei bravo! \n Vuoi sapere quanto sei bravo? \n Fai clic su CLASSIFICA nella barra superiore del menu (lampeggiante). \n Qui troverai tutti i tipi di statistiche che potrai utilizzare per avanzare ancora di più nel gioco!
+
+09960042	Sì certo, puoi sempre andare nella tua stanza e darti una pacca sulla spalla da solo, ma non fa mai male dare un'occhiata alla tua posizione rispetto a quella degli altri giocatori ! \n Fai clic su CLASSIFICHE (lampeggiante) nella parte inferiore del display e controlla...
+
+09960052	Eccellente! \n Hai guadagnato abbastanza per ricercare un arsenale migliorato. \n Fai clic sul tasto (lampeggiante) RICERCA e ricerca una nuova pistola.
+
+09960062	Okay, hai aumentato il tuo equipaggiamento! \n Fai clic su EQUIP (lampeggiante) e aggiungi i tuoi elementi nelle fessure designate in modo da poterli utilizzare durante il gioco...
+
+09960202	Se conosci il NOME UTENTE dei tuoi amici, li puoi aggiungere facendo clic sul tasto AMICI (lampeggiante) nella parte inferiore del display. Scopri se sono all'altezza della sfida e puoi invitarli a partecipare a un gioco...
+
+09960501	Controlli 1/2
+09960502	Per spostarti, utilizza 'WASD'. Per puntare e sparare utilizza il mouse.\n Puoi ricaricare con 'R' e rotolare con 'Spazio'.\n In alto a sinistra c'è un rilevatore e in alto a destra armi ed elementi.\n Utilizza la 'Rotella del mouse' per cambiare arma, e '1-3' per usare gli elementi. 
+
+09960021	Controlli 2/2
+09960022	Se desideri modificare la sensibilità di mira, dei controlli, ecc., puoi farlo nel menu OPZIONI, a cui puoi accedere con 'Fuga'...
+

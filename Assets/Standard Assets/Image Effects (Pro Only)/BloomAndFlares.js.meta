@@ -1,0 +1,19 @@
+fileFormatVersion: 1
+guid: b3433daf007994da9a3abeabdb79db4e
+MonoImporter:
+  importerVersion: 1
+  defaultReferences:
+    addAlphaHackShader: {fileID: 4800000, guid: b708c6968aee044a79ee006e3e270d2d,
+      type: 1}
+    lensFlareShader: {fileID: 4800000, guid: 459fe69d2f6d74ddb92f04dbf45a866b, type: 1}
+    vignetteShader: {fileID: 4800000, guid: 562f620336e024ac99992ff05725a89a, type: 1}
+    separableBlurShader: {fileID: 4800000, guid: a9df009a214e24a5ebbf271595f8d5b6,
+      type: 1}
+    addBrightStuffOneOneShader: {fileID: 4800000, guid: f7898d203e9b94c0dbe2bf9dd5cb32c0,
+      type: 1}
+    hollywoodFlareBlurShader: {fileID: 4800000, guid: 75b73252d2ed04d20935d6a73fcbb815,
+      type: 1}
+    hollywoodFlareStretchShader: {fileID: 4800000, guid: 52f841dce792140a0830c80d0b11ac82,
+      type: 1}
+    brightPassFilterShader: {fileID: 4800000, guid: 186c4c0d31e314f049595dcbaf4ca129,
+      type: 1}

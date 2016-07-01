@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.unity3d.player" android:installLocation="preferExternal" android:versionCode="1" android:versionName="1.0">
+  <supports-screens android:smallScreens="true" android:normalScreens="true" android:largeScreens="true" android:xlargeScreens="true" android:anyDensity="true" />
+  <compatible-screens>
+    <!--    <screen android:screenSize="small"  android:screenDensity="ldpi" /> -->
+    <!--    <screen android:screenSize="small"  android:screenDensity="mdpi" /> -->
+    <screen android:screenSize="small" android:screenDensity="hdpi" />
+    <screen android:screenSize="small" android:screenDensity="xhdpi" />
+    <!--all normal size screens -->
+    <!--    <screen android:screenSize="normal" android:screenDensity="ldpi" /> -->
+    <screen android:screenSize="normal" android:screenDensity="mdpi" />
+    <screen android:screenSize="normal" android:screenDensity="hdpi" />
+    <screen android:screenSize="normal" android:screenDensity="xhdpi" />
+    <!-- all large size screens -->
+    <screen android:screenSize="large" android:screenDensity="ldpi" />
+    <screen android:screenSize="large" android:screenDensity="mdpi" />
+    <screen android:screenSize="large" android:screenDensity="hdpi" />
+    <screen android:screenSize="large" android:screenDensity="xhdpi" />
+    <!-- all xlarge size screens -->
+    <screen android:screenSize="xlarge" android:screenDensity="ldpi" />
+    <screen android:screenSize="xlarge" android:screenDensity="mdpi" />
+    <screen android:screenSize="xlarge" android:screenDensity="hdpi" />
+    <screen android:screenSize="xlarge" android:screenDensity="xhdpi" />
+    <!-- Special case - xxhdpi -->
+    <screen android:screenSize="normal" android:screenDensity="480" />
+    <screen android:screenSize="large" android:screenDensity="480" />
+    <screen android:screenSize="xlarge" android:screenDensity="480" />
+	<!-- Special case - Nexus 6 -->         
+	<screen android:screenSize="normal" android:screenDensity="560"  />        
+	<screen android:screenSize="large"  android:screenDensity="560"  />
+	<screen android:screenSize="xlarge" android:screenDensity="560"  />
+    <!-- Special case - xxxhdpi -->
+    <screen android:screenSize="normal" android:screenDensity="640" />
+    <screen android:screenSize="large" android:screenDensity="640" />
+    <screen android:screenSize="xlarge" android:screenDensity="640" />
+    <!-- Special case for Nexus 7 -->
+    <screen android:screenSize="large" android:screenDensity="213" />
+  </compatible-screens>
+  <application android:icon="@drawable/app_icon" android:label="@string/app_name" android:debuggable="true">
+  
+    <activity android:name="com.unity3d.player.UnityPlayerNativeActivity" android:label="@string/app_name" android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:screenOrientation="sensorLandscape" android:launchMode="singleTask">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+      <meta-data android:name="unityplayer.ForwardNativeEventsToDalvik" android:value="true" />
+    </activity>
+	
+    <activity android:name="com.unity3d.player.VideoPlayer" android:label="@string/app_name" android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode">
+    </activity>
+  </application>
+  
+  <!-- PERMISSIONS -->
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+  <uses-permission android:name="android.permission.GET_TASKS" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+  <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+  <!--  -->
+  <uses-permission android:name="android.permission.WAKE_LOCK" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="com.android.vending.BILLING" />
+  <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
+  
+  <!-- FEATURES -->
+  <uses-feature android:name="android.hardware.touchscreen" android:required="false" />
+  <!-- Due to micro-consoles like M.O.J.O., without this the app is not visible on Google Play on such devices.  -->
+  <uses-feature android:name="android.hardware.microphone" android:required="false" />
+  <!-- Due to micro-consoles like M.O.J.O., without this the app is not visible on Google Play on such devices.  -->
+  <uses-feature android:name="android.hardware.location" android:required="false" />
+  <!-- Due to micro-consoles like M.O.J.O., without this the app is not visible on Google Play on such devices.  -->
+  <uses-feature android:name="android.hardware.location.network" android:required="false" />
+  <!-- Due to micro-consoles like M.O.J.O., without this the app is not visible on Google Play on such devices.  -->
+  <uses-feature android:name="android.hardware.location.gps" android:required="false" />
+  <!-- Due to micro-consoles like M.O.J.O., without this the app is not visible on Google Play on such devices.  -->
+  <uses-feature android:name="android.hardware.screen.portrait" android:required="false" />
+  <!-- Due to micro-consoles like M.O.J.O., without this the app is not visible on Google Play on such devices.  -->
+</manifest>

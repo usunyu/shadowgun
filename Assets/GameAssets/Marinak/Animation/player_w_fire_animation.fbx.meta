@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: f014e1ce208486c44b3a263161d0c6d3
+ModelImporter:
+  fileIDToRecycleName:
+    4300000: player_mesh
+    4300002: baaba
+    4300004: w_rifle01mesh
+    4300006: wall_01
+    7400000: _FireCamSMG //// player_w_fire_animation
+    7400002: IdleFireSMG //// player_w_fire_animation
+    7400004: RunFireSMG //// player_w_fire_animation
+    7400006: CoverStandFireLeftSMG //// player_w_fire_animation
+    7400008: CoverStandFireRightSMG //// player_w_fire_animation
+    7400010: CoverCrouchFireLeftSMG //// player_w_fire_animation
+    7400012: CoverCrouchFireCenterSMG //// player_w_fire_animation
+    7400014: CoverCrouchFireRightSMG //// player_w_fire_animation
+    7400016: IdleReloadSMG //// player_w_fire_animation
+    7400018: RunReloadSMG //// player_w_fire_animation
+    7400020: CoverStandReloadSMG //// player_w_fire_animation
+    7400022: CoverStandLeftReloadSMG //// player_w_fire_animation
+    7400024: CoverStandRightReloadSMG //// player_w_fire_animation
+    7400026: CoverCrouchReloadSMG //// player_w_fire_animation
+    7400028: CoverCrouchLeftReloadSMG //// player_w_fire_animation
+    7400030: '----------------------------------- //// player_w_fire_animation'
+    7400032: _FireCamGrenade //// player_w_fire_animation
+    7400034: IdleFireGranate //// player_w_fire_animation
+    7400036: RunFireGranate //// player_w_fire_animation
+    7400038: CoverStandFireLeftGranade //// player_w_fire_animation
+    7400040: CoverStandFireRightGranade //// player_w_fire_animation
+    7400042: CoverCrouchFireLeftGranade //// player_w_fire_animation
+    7400044: CoverCrouchFireCenterGranade //// player_w_fire_animation
+    7400046: CoverCrouchFireRightGranade //// player_w_fire_animation
+    7400048: IdleReloadGranade //// player_w_fire_animation
+    7400050: RunReloadGranade //// player_w_fire_animation
+    7400052: CoverStandReloadGranade //// player_w_fire_animation
+    7400054: CoverStandLeftReloadGranade //// player_w_fire_animation
+    7400056: CoverStandRightReloadGranade //// player_w_fire_animation
+    7400058: CoverCrouchReloadGranade //// player_w_fire_animation
+    7400060: CoverCrouchLeftReloadGranade //// player_w_fire_animation
+    7400062: CoverCrouchRightReloadGranade //// player_w_fire_animation
+    7400064: '------------------------------------ //// player_w_fire_animation'
+    7400066: _FireCamShotgun //// player_w_fire_animation
+    7400068: IdleFireShotgun //// player_w_fire_animation
+    7400070: RunFireShotgun //// player_w_fire_animation
+    7400072: CoverStandFireLeftShotgun //// player_w_fire_animation
+    7400074: CoverStandFireRightShotgun //// player_w_fire_animation
+    7400076: CoverCrouchFireLeftShotgun //// player_w_fire_animation
+    7400078: CoverCrouchFireCenterShotgun //// player_w_fire_animation
+    7400080: CoverCrouchFireRightShotgun //// player_w_fire_animation
+    7400082: IdleReloadShotgun //// player_w_fire_animation
+    7400084: RunReloadShotgun //// player_w_fire_animation
+    7400086: CoverStandReloadShotgun //// player_w_fire_animation
+    7400088: CoverStandLeftReloadShotgun //// player_w_fire_animation
+    7400090: CoverStandRightReloadShotgun //// player_w_fire_animation
+    7400092: CoverCrouchReloadShotgun //// player_w_fire_animation
+    7400094: CoverCrouchLeftReloadShotgun //// player_w_fire_animation
+    7400096: CoverCrouchRightReloadShotgun //// player_w_fire_animation
+    7400098: '------------------------------------- //// player_w_fire_animation'
+    7400100: _FireCamRocket //// player_w_fire_animation
+    7400102: IdleFireRocket //// player_w_fire_animation
+    7400104: RunFireRocket //// player_w_fire_animation
+    7400106: CoverStandFireLeftRocket //// player_w_fire_animation
+    7400108: CoverStandFireRightRocket //// player_w_fire_animation
+    7400110: CoverCrouchFireLeftRocket //// player_w_fire_animation
+    7400112: CoverCrouchFireCenterRocket //// player_w_fire_animation
+    7400114: CoverCrouchFireRightRocket //// player_w_fire_animation
+    7400116: IdleReloadRocket //// player_w_fire_animation
+    7400118: RunReloadRocket //// player_w_fire_animation
+    7400120: CoverStandReloadRocket //// player_w_fire_animation
+    7400122: CoverStandLeftReloadRocket //// player_w_fire_animation
+    7400124: CoverStandRightReloadRocket //// player_w_fire_animation
+    7400126: CoverCrouchReloadRocket //// player_w_fire_animation
+    7400128: CoverCrouchLeftReloadRocket //// player_w_fire_animation
+    7400130: CoverCrouchRightReloadRocket //// player_w_fire_animation
+    7400132: '-------------------------------------- //// player_w_fire_animation'
+    7400134: _FireCamSniper //// player_w_fire_animation
+    7400136: IdleFireSniper //// player_w_fire_animation
+    7400138: RunFireSniper //// player_w_fire_animation
+    7400140: CoverStandFireLeftSniper //// player_w_fire_animation
+    7400142: CoverStandFireRightSniper //// player_w_fire_animation
+    7400144: CoverCrouchFireLeftSniper //// player_w_fire_animation
+    7400146: CoverCrouchFireCenterSniper //// player_w_fire_animation
+    7400148: CoverCrouchFireRightSniper //// player_w_fire_animation
+    7400150: IdleReloadSniper //// player_w_fire_animation
+    7400152: RunReloadSniper //// player_w_fire_animation
+    7400154: CoverStandReloadSniper //// player_w_fire_animation
+    7400156: CoverStandLeftReloadSniper //// player_w_fire_animation
+    7400158: CoverStandRightReloadSniper //// player_w_fire_animation
+    7400160: CoverCrouchReloadSniper //// player_w_fire_animation
+    7400162: IdleReloadSMG_ADD //// player_w_fire_animation
+    7400164: IdleReloadSMG_ABS //// player_w_fire_animation
+    7400166: IdleReloadSMG 1 //// player_w_fire_animation
+    7400168: IdleReloadSMG 2 //// player_w_fire_animation
+    7400170: IdleReloadGranade 1 //// player_w_fire_animation
+    7400172: IdleFireSMG 1 //// player_w_fire_animation
+    7400174: RunFireSMG 1 //// player_w_fire_animation
+    7400176: IdleReloadSMG 3 //// player_w_fire_animation
+    7400178: IdleReloadSniper 1 //// player_w_fire_animation
+    7400180: IdleReloadSniper 2 //// player_w_fire_animation
+    7400182: IdleFirePlasma //// player_w_fire_animation
+    7400184: RunFirePlasma //// player_w_fire_animation
+  serializedVersion: 10
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    generateAnimations: 3
+    bakeSimulation: 0
+    splitAnimations: 1
+    animationCompression: 1
+    animationRotationError: .0250000004
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 1
+    clipAnimations: []
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 3
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMesh: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  textMetaNamesToFileIDs:
+    //RootNode:
+      data:
+        first: 1
+        second: da860100
+      data:
+        first: 4
+        second: ba1a0600
+      data:
+        first: 111
+        second: 605fa900
+    CameraTargetDir:
+      data:
+        first: 1
+        second: c8860100
+      data:
+        first: 4
+        second: a81a0600
+    CameraTargetPos:
+      data:
+        first: 1
+        second: c4860100
+      data:
+        first: 4
+        second: a41a0600
+    Larm:
+      data:
+        first: 1
+        second: aa860100
+      data:
+        first: 4
+        second: 8a1a0600
+    Lcalf:
+      data:
+        first: 1
+        second: c2860100
+      data:
+        first: 4
+        second: a21a0600
+    Lfingers:
+      data:
+        first: 1
+        second: ce860100
+      data:
+        first: 4
+        second: ae1a0600
+    Lfoot:
+      data:
+        first: 1
+        second: b6860100
+      data:
+        first: 4
+        second: 961a0600
+    Lforearm:
+      data:
+        first: 1
+        second: a6860100
+      data:
+        first: 4
+        second: 861a0600
+    Lshoulder:
+      data:
+        first: 1
+        second: a0860100
+      data:
+        first: 4
+        second: 801a0600
+    Lthigh:
+      data:
+        first: 1
+        second: b8860100
+      data:
+        first: 4
+        second: 981a0600
+    Lthumb:
+      data:
+        first: 1
+        second: d0860100
+      data:
+        first: 4
+        second: b01a0600
+    Lwrist:
+      data:
+        first: 1
+        second: cc860100
+      data:
+        first: 4
+        second: ac1a0600
+    Rarm:
+      data:
+        first: 1
+        second: ca860100
+      data:
+        first: 4
+        second: aa1a0600
+    Rcalf:
+      data:
+        first: 1
+        second: b4860100
+      data:
+        first: 4
+        second: 941a0600
+    Rfingers:
+      data:
+        first: 1
+        second: be860100
+      data:
+        first: 4
+        second: 9e1a0600
+    Rfoot:
+      data:
+        first: 1
+        second: c0860100
+      data:
+        first: 4
+        second: a01a0600
+    Rforearm:
+      data:
+        first: 1
+        second: b0860100
+      data:
+        first: 4
+        second: 901a0600
+    Ribs:
+      data:
+        first: 1
+        second: d2860100
+      data:
+        first: 4
+        second: b21a0600
+    Rshoulder:
+      data:
+        first: 1
+        second: d6860100
+      data:
+        first: 4
+        second: b61a0600
+    Rthigh:
+      data:
+        first: 1
+        second: c6860100
+      data:
+        first: 4
+        second: a61a0600
+    Rthumb:
+      data:
+        first: 1
+        second: bc860100
+      data:
+        first: 4
+        second: 9c1a0600
+    Rweaponholder:
+      data:
+        first: 1
+        second: ba860100
+      data:
+        first: 4
+        second: 9a1a0600
+    Rwrist:
+      data:
+        first: 1
+        second: ac860100
+      data:
+        first: 4
+        second: 8c1a0600
+    chest:
+      data:
+        first: 1
+        second: d4860100
+      data:
+        first: 4
+        second: b41a0600
+    head:
+      data:
+        first: 1
+        second: a8860100
+      data:
+        first: 4
+        second: 881a0600
+    neck:
+      data:
+        first: 1
+        second: b2860100
+      data:
+        first: 4
+        second: 921a0600
+    pelvis:
+      data:
+        first: 1
+        second: a2860100
+      data:
+        first: 4
+        second: 821a0600
+    stomach:
+      data:
+        first: 1
+        second: d8860100
+      data:
+        first: 4
+        second: b81a0600

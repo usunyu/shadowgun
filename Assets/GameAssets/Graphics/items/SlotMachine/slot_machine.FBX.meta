@@ -1,0 +1,112 @@
+fileFormatVersion: 2
+guid: 04050add53549fc41b792300cc771cd7
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: GLOWy
+    100002: GLOWy_small002
+    100004: stinek
+    100006: sipky
+    100008: GLOWy_small01
+    100010: placka_cerna
+    100020: RANTL
+    100022: //RootNode
+    400000: GLOWy
+    400002: GLOWy_small002
+    400004: stinek
+    400006: sipky
+    400008: GLOWy_small01
+    400010: placka_cerna
+    400020: RANTL
+    400022: //RootNode
+    2300000: GLOWy
+    2300002: GLOWy_small002
+    2300004: stinek
+    2300006: sipky
+    2300008: GLOWy_small01
+    2300010: placka_cerna
+    2300020: RANTL
+    3300000: GLOWy
+    3300002: GLOWy_small002
+    3300004: stinek
+    3300006: sipky
+    3300008: GLOWy_small01
+    3300010: placka_cerna
+    3300020: RANTL
+    4300000: Object003
+    4300002: Object001
+    4300004: CHROM_CELO
+    4300006: Object002
+    4300008: CHROM_CELO02
+    4300010: Object005
+    4300012: Ciferniky
+    4300014: Object006
+    4300016: CHROM_01
+    4300018: Object010
+    4300020: CHROM_02
+    4300022: Object011
+    4300024: Object012
+    4300026: RANTL
+    4300028: Cylinder003
+    4300030: GLOWy
+    4300032: GLOWy_small01
+    4300034: decor_01
+    4300036: decor_002
+    4300038: GLOWy_small002
+    4300040: PAKA
+    4300042: center
+    4300044: RANTL003
+    4300046: stinek
+    4300048: sipky
+    4300050: placka_cerna
+    11100000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

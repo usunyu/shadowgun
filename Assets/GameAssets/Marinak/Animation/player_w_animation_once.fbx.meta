@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: d58310dd9662eeb409c9ba40acb98a00
+ModelImporter:
+  fileIDToRecycleName:
+    4300000: player_mesh
+    4300002: baaba
+    7400000: InjuryIdleBack1 //// player_w_animation_once
+    7400002: InjuryIdleFront1 //// player_w_animation_once
+    7400004: InjuryIdleFront3 //// player_w_animation_once
+    7400006: InjuryIdleFront2 //// player_w_animation_once
+    7400008: InjuryIdleBack2 //// player_w_animation_once
+    7400010: InjuryIdleRight1 //// player_w_animation_once
+    7400012: InjuryIdleRight2 //// player_w_animation_once
+    7400014: InjuryIdleBack3 //// player_w_animation_once
+    7400016: InjuryIdleLeft1 //// player_w_animation_once
+    7400018: InjuryIdleLeft2 //// player_w_animation_once
+    7400020: InjuryUniversal1 //// player_w_animation_once
+    7400022: InjuryUniversal2 //// player_w_animation_once
+    7400024: InjuryUniversal3 //// player_w_animation_once
+    7400026: InjuryCoverCrouchAimCenter //// player_w_animation_once
+    7400028: InjuryCoverStandIdle //// player_w_animation_once
+    7400030: InjuryCoverCrouchIdle //// player_w_animation_once
+    7400032: InjuryCoverStandAimLeft //// player_w_animation_once
+    7400034: InjuryCoverCrouchAimRight //// player_w_animation_once
+    7400036: InjuryCoverStandAimRight //// player_w_animation_once
+    7400038: InjuryCoverCrouchAimLeft //// player_w_animation_once
+    7400040: CoverStandAimRightStart //// player_w_animation_once
+    7400042: CoverStandAimRightBack //// player_w_animation_once
+    7400044: CoverStandAimLeftStart //// player_w_animation_once
+    7400046: CoverStandAimLeftBack //// player_w_animation_once
+    7400048: CoverCrouchAimRightStart //// player_w_animation_once
+    7400050: CoverCrouchAimRightBack //// player_w_animation_once
+    7400052: CoverCrouchAimCenterStart //// player_w_animation_once
+    7400054: CoverCrouchAimCenterBack //// player_w_animation_once
+    7400056: CoverCrouchAimLeftStart //// player_w_animation_once
+    7400058: CoverCrouchAimLeftBack //// player_w_animation_once
+    7400060: JumpOverToIdle //// player_w_animation_once
+    7400062: DeathCoverCrouchIdle //// player_w_animation_once
+    7400064: DeathCoverStandIdle //// player_w_animation_once
+    7400066: DeathCoverCrouchAimCenter //// player_w_animation_once
+    7400068: DeathCoverCrouchAimLeft //// player_w_animation_once
+    7400070: DeathCoverCrouchAimRight //// player_w_animation_once
+    7400072: DeathCoverStandAimLeft //// player_w_animation_once
+    7400074: DeathCoverStandAimRight //// player_w_animation_once
+    7400076: UseButton //// player_w_animation_once
+    7400078: UseWeaponbox //// player_w_animation_once
+    7400080: Use //// player_w_animation_once
+    7400082: Kick //// player_w_animation_once
+    7400084: CoverStandEnter //// player_w_animation_once
+    7400086: CoverStandLeave //// player_w_animation_once
+    7400088: CoverCrouchEnter //// player_w_animation_once
+    7400090: CoverCrouchLeave //// player_w_animation_once
+    7400092: CoverStandLeftLeave //// player_w_animation_once
+    7400094: CoverStandRightLeave //// player_w_animation_once
+    7400096: CoverCrouchLeftLeave //// player_w_animation_once
+    7400098: CoverCrouchRightLeave //// player_w_animation_once
+    7400100: IdleChangeWeapon //// player_w_animation_once
+    7400102: CoverStandChangeWeapon //// player_w_animation_once
+    7400104: CoverCrouchChangeWeapon //// player_w_animation_once
+    7400106: RunChangeWeapon //// player_w_animation_once
+    7400108: Land //// player_w_animation_once
+    7400110: CoverCrouchThrowLeft //// player_w_animation_once
+    7400112: CoverCrouchThrowRight //// player_w_animation_once
+    7400114: CoverStandThrowLeft //// player_w_animation_once
+    7400116: CoverStandThrowRight //// player_w_animation_once
+    7400118: CoverCrouchThrowCenter //// player_w_animation_once
+    7400120: IdleThrow //// player_w_animation_once
+    7400122: RunThrow //// player_w_animation_once
+    7400124: DeathIdleFront1 //// player_w_animation_once
+    7400126: DeathIdleFront2 //// player_w_animation_once
+    7400128: DeathIdleFront3 //// player_w_animation_once
+    7400130: DeathRunL //// player_w_animation_once
+    7400132: DeathRunR //// player_w_animation_once
+    7400134: DeathRunF //// player_w_animation_once
+    7400136: MeleeKick //// player_w_animation_once
+    7400138: DeathMeleeKick //// player_w_animation_once
+    7400140: CoverCrouchThrowCenterR //// player_w_animation_once
+    7400142: CoverCrouchThrowCenterL //// player_w_animation_once
+    7400144: DeathMeleeKickBack //// player_w_animation_once
+    7400146: InjuryMeleeKick //// player_w_animation_once
+    7400148: InjuryMeleeKickBack //// player_w_animation_once
+    7400150: MeleeAttack1 //// player_w_animation_once
+    7400152: MeleeAttack2 //// player_w_animation_once
+    7400154: MeleeAtack3 //// player_w_animation_once
+    7400156: DeathKO //// player_w_animation_once
+    7400158: InjuryKO1 //// player_w_animation_once
+    7400160: InjuryKO2 //// player_w_animation_once
+    7400162: InjuryKO3 //// player_w_animation_once
+    7400164: CoverCrouchJumpUp //// player_w_animation_once
+    7400166: Drop //// player_w_animation_once
+    7400168: Tpose //// player_w_animation_once
+    7400170: TurnR //// player_w_animation_once
+    7400172: TurnL //// player_w_animation_once
+    7400174: UseWeaponBox //// player_w_animation_once
+    7400176: DeathIdle1 //// player_w_animation_once
+    7400178: DeathIdle2 //// player_w_animation_once
+    7400180: DeathIdle3 //// player_w_animation_once
+    7400182: CoverCrouchThrowLeft 1 //// player_w_animation_once
+    7400184: CoverCrouchThrowLeft 2 //// player_w_animation_once
+    7400186: IdleReloadSMG //// player_w_animation_once
+    7400188: CoverCrouchStrafeRight //// player_w_animation_once
+    7400190: CoverStandStrafeRight //// player_w_animation_once
+    7400192: CoverCrouchLeaveHit //// player_w_animation_once
+    7400194: CoverStandLeaveHit //// player_w_animation_once
+  serializedVersion: 10
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    generateAnimations: 3
+    bakeSimulation: 0
+    splitAnimations: 1
+    animationCompression: 1
+    animationRotationError: .0250000004
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 1
+    clipAnimations: []
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 3
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMesh: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  textMetaNamesToFileIDs:
+    //RootNode:
+      data:
+        first: 1
+        second: c6860100
+      data:
+        first: 4
+        second: a61a0600
+      data:
+        first: 111
+        second: 605fa900
+    CameraTargetDir:
+      data:
+        first: 1
+        second: b2860100
+      data:
+        first: 4
+        second: 921a0600
+    CameraTargetPos:
+      data:
+        first: 1
+        second: be860100
+      data:
+        first: 4
+        second: 9e1a0600
+    Larm:
+      data:
+        first: 1
+        second: bc860100
+      data:
+        first: 4
+        second: 9c1a0600
+    Lcalf:
+      data:
+        first: 1
+        second: ae860100
+      data:
+        first: 4
+        second: 8e1a0600
+    Lfingers:
+      data:
+        first: 1
+        second: d2860100
+      data:
+        first: 4
+        second: b21a0600
+    Lfoot:
+      data:
+        first: 1
+        second: a6860100
+      data:
+        first: 4
+        second: 861a0600
+    Lforearm:
+      data:
+        first: 1
+        second: b4860100
+      data:
+        first: 4
+        second: 941a0600
+    Lgadgetholder:
+      data:
+        first: 1
+        second: da860100
+      data:
+        first: 4
+        second: ba1a0600
+    Lshoulder:
+      data:
+        first: 1
+        second: b8860100
+      data:
+        first: 4
+        second: 981a0600
+    Lthigh:
+      data:
+        first: 1
+        second: cc860100
+      data:
+        first: 4
+        second: ac1a0600
+    Lthumb:
+      data:
+        first: 1
+        second: aa860100
+      data:
+        first: 4
+        second: 8a1a0600
+    Lwrist:
+      data:
+        first: 1
+        second: d4860100
+      data:
+        first: 4
+        second: b41a0600
+    Rarm:
+      data:
+        first: 1
+        second: c0860100
+      data:
+        first: 4
+        second: a01a0600
+    Rcalf:
+      data:
+        first: 1
+        second: d8860100
+      data:
+        first: 4
+        second: b81a0600
+    Rfingers:
+      data:
+        first: 1
+        second: a2860100
+      data:
+        first: 4
+        second: 821a0600
+    Rfoot:
+      data:
+        first: 1
+        second: ca860100
+      data:
+        first: 4
+        second: aa1a0600
+    Rforearm:
+      data:
+        first: 1
+        second: d0860100
+      data:
+        first: 4
+        second: b01a0600
+    Ribs:
+      data:
+        first: 1
+        second: c8860100
+      data:
+        first: 4
+        second: a81a0600
+    Rshoulder:
+      data:
+        first: 1
+        second: b0860100
+      data:
+        first: 4
+        second: 901a0600
+    Rthigh:
+      data:
+        first: 1
+        second: a8860100
+      data:
+        first: 4
+        second: 881a0600
+    Rthumb:
+      data:
+        first: 1
+        second: ac860100
+      data:
+        first: 4
+        second: 8c1a0600
+    Rweaponholder:
+      data:
+        first: 1
+        second: d6860100
+      data:
+        first: 4
+        second: b61a0600
+    Rwrist:
+      data:
+        first: 1
+        second: a0860100
+      data:
+        first: 4
+        second: 801a0600
+    chest:
+      data:
+        first: 1
+        second: c2860100
+      data:
+        first: 4
+        second: a21a0600
+    head:
+      data:
+        first: 1
+        second: ce860100
+      data:
+        first: 4
+        second: ae1a0600
+    neck:
+      data:
+        first: 1
+        second: ba860100
+      data:
+        first: 4
+        second: 9a1a0600
+    pelvis:
+      data:
+        first: 1
+        second: a4860100
+      data:
+        first: 4
+        second: 841a0600
+    stomach:
+      data:
+        first: 1
+        second: b6860100
+      data:
+        first: 4
+        second: 961a0600

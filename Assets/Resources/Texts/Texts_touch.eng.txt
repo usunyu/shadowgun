@@ -1,0 +1,37 @@
+
+#touch devices
+
+01140015	+50% MONEY   +50% EXPERIENCE  \n +PREMIUM SKINS   +PREMIUM FEATURES
+
+00106042	Tap on weapon \n to begin research
+
+00114000	This is the Research Area. Here you can develop or upgrade new, more powerful weapons, items or even player abilities (perks) for the game money you have earned. These are tiny but crucial adjustments that can significantly alter gameplay. It is based on a tree structure, so you have to first research basic elements at the top in order to get to the more advanced technologies at the bottom. To research something, simply tap on the selected element and a pop-up window will appear.
+
+02040240	From here you can add friends. \n\n You must play the game \n to get the list of other players. \n\n You can always add individual friends manually \n if you know their usernames. \n You can do so by tapping the 'add by username' button bellow.
+
+00211001	Gold remains a valuable commodity. As it is not a common currency in the world of Shadowgun, it can be exchanged for exclusive items such as Hats or Skins. (Gold is available through I.A.P. or via FREE GOLD)
+
+00502047	(Tap on image to get to proper menu)
+
+09960092	A true warrior has a name that people notice! \n By tapping on NICKNAME in the (flashing) upper bar, you can access your profile settings from where you can change your NICKNAME or PASSWORD at any time.
+
+09960002	I know you’re itching to get shooting. \n So let’s get going... \n First you have to learn how to play DEATHMATCH. \n Tap the (flashing) GAME button...
+
+09960012	Okay, now you’re in the Spawn menu. \n Just tap on SPAWN (flashing) in the lower-right section of the display and you’re ready to roll!
+
+09960032	You’re good! \n You want to know just how good? \n Tap on RANK in the upper menu bar (flashing). \n Here you’ll find all kinds of statistics you can use to take your game even further!
+
+09960042	Yeah sure, go ahead and pat yourself on the back alone in your room, but it doesn’t hurt to have a look at your standings in comparison to other players! \n Tap on LEADERBOARDS (flashing) on the lower side of the display and check it out...
+
+09960052	Excellent! \n You have earned enough money to research an improved arsenal. \n Tap on the (flashing) RESEARCH button and research new gun.
+
+09960062	Okay, you have increased your equipment! \n Tap on EQUIP (flashing) and add your items into the designated slot, so that you can use them during gameplay...
+
+09960202	If you know the USERNAME of your friends, you can add them by tapping on the  FRIENDS button (flashing) on the lower side of the display. Find out if they are up to the challenge and you can invite them to a game...
+
+09960501	Controls 1/2
+09960502	For Move, use the lower-left section of the display. \n The right-hand section of the display is for aiming. There are also buttons Shoot, Reload, and Roll. \n In the top-left there is a Detector and in the upper-right section, you can select your weapons and items.
+
+09960021	Controls 2/2
+09960022	If you would like to change the aim sensitivity, controls layout etc., you can do so in the OPTIONS menu, which you can access via the pause button in the upper-left corner of the display...
+

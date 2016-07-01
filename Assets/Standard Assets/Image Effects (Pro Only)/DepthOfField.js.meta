@@ -1,0 +1,18 @@
+fileFormatVersion: 1
+guid: a0cbd66fb272e4805bdbb4beb41f3bd2
+MonoImporter:
+  importerVersion: 1
+  defaultReferences:
+    weightedBlurShader: {fileID: 4800000, guid: 79cf3e10f8d0a4256b7c3f6018a76091,
+      type: 1}
+    preDofShader: {fileID: 4800000, guid: fb8122c5607b54faba6d9e8006f01834, type: 1}
+    preDofZReadShader: {fileID: 4800000, guid: c86c8e33e97244bbbac0cd452cdaf125, type: 1}
+    dofShader: {fileID: 4800000, guid: e6dc999ecda584a82a5bc3122aa5dccf, type: 1}
+    blurShader: {fileID: 4800000, guid: e97c14fbb5ea04c3a902cc533d7fc5d1, type: 1}
+    foregroundShader: {fileID: 4800000, guid: 9568476b9d0974bbd8affc1402577e39, type: 1}
+    depthConvertShader: {fileID: 4800000, guid: 2cc0e98364e174796a8812fd07c34e0d,
+      type: 1}
+    depthBlurShader: {fileID: 4800000, guid: 7e02687c008a1483fbe36100161e2d86, type: 1}
+    recordCenterDepthShader: {fileID: 4800000, guid: bc271db60e3cc49c99b6622ced5fd210,
+      type: 1}
+    focusOnThis: {}

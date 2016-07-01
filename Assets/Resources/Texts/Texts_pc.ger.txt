@@ -1,0 +1,37 @@
+﻿
+#override for PC
+
+01140015	+50% an GELD +50% an ERFAHRUNG \n + PREMIUM DARSTELLUNGEN + PREMIUM FUNKTIONEN
+
+00106042	Klicken Sie auf Waffe \n um mit der Erforschung zu beginnen
+
+00114000	Dies ist der Forschungsbereich. Hier können Sie neue, stärkere Waffen, Gegenstände oder sogar Spieler-Fähigkeiten für das Spielgeld erlangen, das Sie bisher verdient haben. Dies sind winzige, aber entscheidende Anpassungen, die den Spielvorgang signifikant verändern können. Es basiert auf einer Baumstruktur, deswegen müssen Sie zuerst die oben befindlichen Grundelemente erforschen, um zu den fortgeschrittenen Technologien unten zu gelangen. Um etwas zu erforschen, bitte einfach das ausgewählte Element anklicken, es erscheint dann ein Pop-up-Fenster.
+
+02040240	Ab hier können Sie Freunde hinzufügen. \n \n Sie müssen das Spiel \n spielen, um eine Liste mit anderen Spielern zu erhalten. \n\n Sie können einzelne Freunde jederzeit manuell hinzufügen \n Sie müssen nur deren Benutzernamen kennen. \n Sie können dies erreichen, indem Sie auf die Schaltfläche 'Hinzufügen von Benutzernamen’ anklicken.
+
+00211001	Gold bleibt ein wertvolles Gut. Da es keine gemeinsame Währung in der Welt der Shadowgun ist, kann es für exklusive Gegenstände wie Hüte oder Skins getauscht werden.
+
+00502047	(Klicken Sie auf das Bild, um zum richtigen Menü zu gelangen)
+
+09960092	Ein wahrer Krieger besitzt einen Namen, mit dem er auffällt! \n Durch Klicken auf Spitznamen in der (blinkend) oberen Leiste, können Sie auf Ihre Profileinstellungen zugreifen, dort können Sie jederzeit Ihren Spitznamen oder Passwort ändern.
+
+09960002	Ich denke, der Nervenkitzel packt Sie bereits ordentlich, also legen Sie los. \n also packen wir es an... \n Sie müssen zuerst erlernen, wie man " DEATHMATCH" spielt. \n Klicken Sie auf den (blinkend) SPIEL Knopf...
+
+09960012	Okay, jetzt befinden Sie sich im Spawn Menü. \n Klicken Sie einfach auf SPAWN (blinkend) im unteren rechten Bereich der Anzeige und sie sind bereit los zulegen!
+
+09960032	Sie sind gut! \n Möchten Sie wissen, wie gut? \n Klicken Sie auf RANG in der oberen Menüleiste (blinkend). \n Hier finden Sie alle Arten von Statistiken, die Sie dazu verwenden können, um Ihr Spiel noch weiter zu entwickeln!
+
+09960042	Ja natürlich, machen Sie weiter und Sie können sich selbst auf die Schulter klopfen, so ganz allein in Ihrem Zimmer, aber es kann nicht schaden, einen Blick auf Ihren Tabellenstand im Vergleich zu anderen Spielern zu werfen! \n Klicken Sie auf RANGLISTEN (blinkend) auf der unteren Seite des Displays, und überprüfen Sie es...
+
+09960052	Ausgezeichnet! \n Sie haben genug Geld verdient, um sich eine verbesserte Ausstattung leisten zu können. \n Klicken Sie auf die (blinkend) Taste FORSCHUNG, und erkundigen Sie sich über neue Waffen.
+
+09960062	Okay, Sie haben Ihre Ausrüstung erweitert! \n Klicken Sie auf AUSRÜSTUNG (blinkend) und fügen Sie Ihre Objekte in den vorgesehenen Steckplatz, sodass sie diese während des Spiels auch benutzen können...
+
+09960202	Wenn Sie die Benutzernamen ihrer Freunde kennen, können Sie diese durch Klicken auf die Schaltfläche FREUNDE (blinkend) hinzufügen, sie befindet sich auf der unteren Seite des Bildschirms. Finden Sie heraus, ob sie sich dieser Herausforderung stellen möchten, und Sie können sie dann zu einem Spiel einladen...
+
+09960501	Steuert 1/2
+09960502	Um sich zu bewegen, verwenden Sie "WASD". Zum Zielen und Schießen verwenden Sie Ihre Maus. \n Sie können mittels "R" nachladen und Rollen durch Betätigung der 'Leertaste' .Taste \n Oben links gibt es einen Sensor und oben rechts Waffen und Gegenstände. \n Verwenden Sie Ihr "Mausrad" um Waffen zu wechseln, und '1-3' Gegenstände auszuwählen. 
+
+09960021	Steuert 2/2
+09960022	Wenn Sie die Zielempfindlichkeit, Steuerungen usw. ändern wollen, können Sie dies im OPTIONEN Menü tun. Mit der 'Escape' Taste können Sie darauf zugreifen...
+

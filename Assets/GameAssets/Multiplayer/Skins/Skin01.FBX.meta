@@ -1,0 +1,562 @@
+fileFormatVersion: 2
+guid: e6b1b5eeb3fb25e4ea538c8a55ccd036
+ModelImporter:
+  fileIDToRecycleName:
+    4300000: assasin
+    4300002: assasin_mesh
+    4300004: assasin_meshLod1
+    4300006: assasin_meshLod2
+    4300008: sherrif_mesh
+    4300010: dancer_mesh
+    4300012: beast_mesh
+    4300014: widow_mesh
+    4300016: toltech_mesh
+    4300018: sara_mesh
+    4300020: slade_mesh
+    4300022: mutant_mesh
+    4300024: slade_meshLod1
+    4300026: slade_meshLod2
+    4300028: toltech_meshLod1
+    4300030: toltech_meshLod2
+    4300032: sherrif_meshLod1
+    4300034: sherrif_meshLod2
+    4300036: beast_meshLod1
+    4300038: beast_meshLod2
+    4300040: mutant_meshLod1
+    4300042: mutant_meshLod2
+    4300044: sara_meshLod1
+    4300046: sara_meshLod2
+    4300048: widow_meshLod1
+    4300050: widow_meshLod2
+    4300052: dancer_meshLod1
+    4300054: dancer_meshLod2
+    4300056: soldier_mesh
+    4300058: soldier_meshLod2
+    4300060: soldier_meshLod1
+    7400000: Take 001 //// Skin01
+  serializedVersion: 10
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    generateAnimations: 3
+    bakeSimulation: 0
+    splitAnimations: 1
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMesh: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  textMetaNamesToFileIDs:
+    //RootNode:
+      data:
+        first: 1
+        second: bc860100
+      data:
+        first: 4
+        second: 9c1a0600
+      data:
+        first: 111
+        second: 605fa900
+    Hat_Target:
+      data:
+        first: 1
+        second: da860100
+      data:
+        first: 4
+        second: ba1a0600
+    Larm:
+      data:
+        first: 1
+        second: ce860100
+      data:
+        first: 4
+        second: ae1a0600
+    Lcalf:
+      data:
+        first: 1
+        second: a8860100
+      data:
+        first: 4
+        second: 881a0600
+    Lfingers:
+      data:
+        first: 1
+        second: aa860100
+      data:
+        first: 4
+        second: 8a1a0600
+    Lfoot:
+      data:
+        first: 1
+        second: d2860100
+      data:
+        first: 4
+        second: b21a0600
+    Lforearm:
+      data:
+        first: 1
+        second: ca860100
+      data:
+        first: 4
+        second: aa1a0600
+    Lshoulder:
+      data:
+        first: 1
+        second: d0860100
+      data:
+        first: 4
+        second: b01a0600
+    Lthigh:
+      data:
+        first: 1
+        second: be860100
+      data:
+        first: 4
+        second: 9e1a0600
+    Lthumb:
+      data:
+        first: 1
+        second: b8860100
+      data:
+        first: 4
+        second: 981a0600
+    Lwrist:
+      data:
+        first: 1
+        second: ba860100
+      data:
+        first: 4
+        second: 9a1a0600
+    Rarm:
+      data:
+        first: 1
+        second: b2860100
+      data:
+        first: 4
+        second: 921a0600
+    Rcalf:
+      data:
+        first: 1
+        second: b6860100
+      data:
+        first: 4
+        second: 961a0600
+    Rfingers:
+      data:
+        first: 1
+        second: a2860100
+      data:
+        first: 4
+        second: 821a0600
+    Rfoot:
+      data:
+        first: 1
+        second: b0860100
+      data:
+        first: 4
+        second: 901a0600
+    Rforearm:
+      data:
+        first: 1
+        second: a6860100
+      data:
+        first: 4
+        second: 861a0600
+    Ribs:
+      data:
+        first: 1
+        second: ae860100
+      data:
+        first: 4
+        second: 8e1a0600
+    Rshoulder:
+      data:
+        first: 1
+        second: b4860100
+      data:
+        first: 4
+        second: 941a0600
+    Rthigh:
+      data:
+        first: 1
+        second: cc860100
+      data:
+        first: 4
+        second: ac1a0600
+    Rthumb:
+      data:
+        first: 1
+        second: d4860100
+      data:
+        first: 4
+        second: b41a0600
+    Rweaponholder:
+      data:
+        first: 1
+        second: c0860100
+      data:
+        first: 4
+        second: a01a0600
+    Rwrist:
+      data:
+        first: 1
+        second: a4860100
+      data:
+        first: 4
+        second: 841a0600
+    assasin_mesh:
+      data:
+        first: 1
+        second: d8860100
+      data:
+        first: 4
+        second: b81a0600
+      data:
+        first: 137
+        second: a00bd100
+    assasin_meshLod1:
+      data:
+        first: 1
+        second: d6860100
+      data:
+        first: 4
+        second: b61a0600
+      data:
+        first: 137
+        second: a20bd100
+    assasin_meshLod2:
+      data:
+        first: 1
+        second: a0860100
+      data:
+        first: 4
+        second: 801a0600
+      data:
+        first: 137
+        second: a40bd100
+    beast_mesh:
+      data:
+        first: 1
+        second: 06870100
+      data:
+        first: 4
+        second: e61a0600
+      data:
+        first: 137
+        second: d00bd100
+    beast_meshLod1:
+      data:
+        first: 1
+        second: 00870100
+      data:
+        first: 4
+        second: e01a0600
+      data:
+        first: 137
+        second: ca0bd100
+    beast_meshLod2:
+      data:
+        first: 1
+        second: dc860100
+      data:
+        first: 4
+        second: bc1a0600
+      data:
+        first: 137
+        second: a60bd100
+    chest:
+      data:
+        first: 1
+        second: c4860100
+      data:
+        first: 4
+        second: a41a0600
+    dancer_mesh:
+      data:
+        first: 1
+        second: 02870100
+      data:
+        first: 4
+        second: e21a0600
+      data:
+        first: 137
+        second: cc0bd100
+    dancer_meshLod1:
+      data:
+        first: 1
+        second: f0860100
+      data:
+        first: 4
+        second: d01a0600
+      data:
+        first: 137
+        second: ba0bd100
+    dancer_meshLod2:
+      data:
+        first: 1
+        second: f6860100
+      data:
+        first: 4
+        second: d61a0600
+      data:
+        first: 137
+        second: c00bd100
+    head:
+      data:
+        first: 1
+        second: ac860100
+      data:
+        first: 4
+        second: 8c1a0600
+    mutant_mesh:
+      data:
+        first: 1
+        second: de860100
+      data:
+        first: 4
+        second: be1a0600
+      data:
+        first: 137
+        second: a80bd100
+    mutant_meshLod1:
+      data:
+        first: 1
+        second: 10870100
+      data:
+        first: 4
+        second: f01a0600
+      data:
+        first: 137
+        second: da0bd100
+    mutant_meshLod2:
+      data:
+        first: 1
+        second: e8860100
+      data:
+        first: 4
+        second: c81a0600
+      data:
+        first: 137
+        second: b20bd100
+    neck:
+      data:
+        first: 1
+        second: c2860100
+      data:
+        first: 4
+        second: a21a0600
+    pelvis:
+      data:
+        first: 1
+        second: c8860100
+      data:
+        first: 4
+        second: a81a0600
+    sara_mesh:
+      data:
+        first: 1
+        second: ee860100
+      data:
+        first: 4
+        second: ce1a0600
+      data:
+        first: 137
+        second: b80bd100
+    sara_meshLod1:
+      data:
+        first: 1
+        second: 08870100
+      data:
+        first: 4
+        second: e81a0600
+      data:
+        first: 137
+        second: d20bd100
+    sara_meshLod2:
+      data:
+        first: 1
+        second: ea860100
+      data:
+        first: 4
+        second: ca1a0600
+      data:
+        first: 137
+        second: b40bd100
+    sherrif_mesh:
+      data:
+        first: 1
+        second: fc860100
+      data:
+        first: 4
+        second: dc1a0600
+      data:
+        first: 137
+        second: c60bd100
+    sherrif_meshLod1:
+      data:
+        first: 1
+        second: 04870100
+      data:
+        first: 4
+        second: e41a0600
+      data:
+        first: 137
+        second: ce0bd100
+    sherrif_meshLod2:
+      data:
+        first: 1
+        second: 0c870100
+      data:
+        first: 4
+        second: ec1a0600
+      data:
+        first: 137
+        second: d60bd100
+    slade_mesh:
+      data:
+        first: 1
+        second: 0e870100
+      data:
+        first: 4
+        second: ee1a0600
+      data:
+        first: 137
+        second: d80bd100
+    slade_meshLod1:
+      data:
+        first: 1
+        second: fe860100
+      data:
+        first: 4
+        second: de1a0600
+      data:
+        first: 137
+        second: c80bd100
+    slade_meshLod2:
+      data:
+        first: 1
+        second: e4860100
+      data:
+        first: 4
+        second: c41a0600
+      data:
+        first: 137
+        second: ae0bd100
+    soldier_mesh:
+      data:
+        first: 1
+        second: ec860100
+      data:
+        first: 4
+        second: cc1a0600
+      data:
+        first: 137
+        second: b60bd100
+    soldier_meshLod1:
+      data:
+        first: 1
+        second: 0a870100
+      data:
+        first: 4
+        second: ea1a0600
+      data:
+        first: 137
+        second: d40bd100
+    soldier_meshLod2:
+      data:
+        first: 1
+        second: e0860100
+      data:
+        first: 4
+        second: c01a0600
+      data:
+        first: 137
+        second: aa0bd100
+    stomach:
+      data:
+        first: 1
+        second: c6860100
+      data:
+        first: 4
+        second: a61a0600
+    toltech_mesh:
+      data:
+        first: 1
+        second: e6860100
+      data:
+        first: 4
+        second: c61a0600
+      data:
+        first: 137
+        second: b00bd100
+    toltech_meshLod1:
+      data:
+        first: 1
+        second: e2860100
+      data:
+        first: 4
+        second: c21a0600
+      data:
+        first: 137
+        second: ac0bd100
+    toltech_meshLod2:
+      data:
+        first: 1
+        second: f4860100
+      data:
+        first: 4
+        second: d41a0600
+      data:
+        first: 137
+        second: be0bd100
+    widow_mesh:
+      data:
+        first: 1
+        second: f2860100
+      data:
+        first: 4
+        second: d21a0600
+      data:
+        first: 137
+        second: bc0bd100
+    widow_meshLod1:
+      data:
+        first: 1
+        second: fa860100
+      data:
+        first: 4
+        second: da1a0600
+      data:
+        first: 137
+        second: c40bd100
+    widow_meshLod2:
+      data:
+        first: 1
+        second: f8860100
+      data:
+        first: 4
+        second: d81a0600
+      data:
+        first: 137
+        second: c20bd100

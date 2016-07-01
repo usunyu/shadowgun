@@ -1,0 +1,36 @@
+﻿
+#override for PC
+
+01140015	+50% ARGENT  +50% EXPERIENCE \n +SKINS PREMIUM +CARACTERISTIQUES PREMIUM 
+
+00106042	Cliquez sur arme\n pour commencer la recherche
+
+00114000	Ceci est le domaine de la recherche. Ici, vous pouvez développer ou améliorer de nouvelles armes plus puissantes, des éléments ou les capacités du joueur (petits bénéfices) pour l'argent du jeu que vous avez gagné. Il s'agit là de réglages certes infimes, mais cruciaux qui peuvent considérablement affecter le jeu. Cette technique est basée sur la structure d'un arbre, où vous devez d'abord rechercher les éléments principaux au sommet qui vous conduiront à des technologies de pointe en bas. Pour rechercher quelque chose, cliquez seulement sur l'élément sélectionné pour qu’une fenêtre contextuelle apparaisse.
+
+02040240	A partir d’ici, vous pouvez rajouter des amis. \n\n Vous devez jouer \n pour obtenir la liste des autres joueurs. \n\n Vous pourrez toujours ajouter manuellement d’autres amis \n si vous connaissez leurs noms d'utilisateur. \n Vous pouvez le faire en cliquant sur le bouton ' ajouter par nom d'utilisateur ' ci-dessous.
+
+00211001	L'or reste un bien précieux. Etant donné ce n'est pas une monnaie courante dans le monde de Shadowgun, il peut être échangé contre des objets exclusifs tels que les chapeaux ou les peaux.
+
+00502047	(Cliquez sur l'image pour accéder au menu correspondant)
+
+09960092	Un vrai guerrier porte un nom qui attire l’attention de tout le monde ! \n En cliquant sur PSEUDO dans la barre supérieure (clignotante), vous pouvez accéder aux paramètres de votre profil qui vous permettent de modifier votre PSEUDO ou MOT DE PASSE à tout moment.
+
+09960002	Je sais que vous êtes impatient de commencer à tirer. \n Alors allons-y... \n Vous devez d'abord apprendre à jouer à DEATHMATCH. \n Cliquez sur le bouton (clignotant) JEU...
+
+09960012	Bon, maintenant vous êtes dans le menu Spawn. \n Cliquez sur SPAWN (clignotant) dans la partie inférieure droite de l'écran et vous êtes prêt à vous amuser !
+
+09960032	Vous avez un bon niveau ! \n Vous voulez connaitre votre niveau ? \n Cliquez sur RANG dans la barre de menu supérieure (clignotante). \n Ici, vous trouverez toutes sortes de statistiques que vous pourrez utiliser pour aller encore plus loin dans le jeu !
+
+09960042	Ouais, bien sûr, allez-y et félicitez-vous tout seul dans votre chambre, mais vous ne perdrez rien en jetant un coup d’œil sur votre classement par rapport aux autres joueurs! \n Cliquez sur CLASSEMENT (clignotant) sur le côté inférieur de l'écran et vérifiez par vous-même...
+
+09960052	Excellent! \n Vous avez gagné suffisamment d'argent pour rechercher un arsenal amélioré. \n Cliquez sur le bouton (clignotant) RECHERCHER et recherchez une nouvelle arme.
+
+09960062	Okay, vous avez renforcé votre équipement ! \n Cliquez sur EQUIPER (clignotant) et ajouter vos éléments dans la fente désignée, de manière à pouvoir les utiliser pendant la partie...
+
+09960202	Si vous connaissez les PSEUDO de vos amis, vous pouvez les ajouter en cliquant sur le bouton AMIS (clignotant) sur le côté inférieur de l'écran.  Vérifiez s'ils sont à la hauteur du défi avant de les inviter à une partie...
+
+09960501	Contrôles 1/2
+09960502	Pour vous déplacer, utilisez 'WASD'. Utilisez la souris pour viser et tirer.\n Vous pouvez recharger par 'R' et rouler par 'espace'.\n Dans le coin supérieur gauche il ya un détecteur et dans le coin supérieur droit des armes et des éléments.\n Utilisez la 'molette de la souris'  pour changer d'arme, et '1-3' pour utiliser les éléments. 
+
+09960021	Contrôles 2/2
+09960022	Vous pouvez accéder au menu OPTIONS en utilisant 'Echap' pour changer la sensibilité de la visée, les contrôles, etc....

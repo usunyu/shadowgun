@@ -1,0 +1,31 @@
+﻿
+#touch devices
+
+01140015	50% DINERO   +50% EXPERIENCIA \n + PIELES PREMIUM + CARACTERÍSTICAS PREMIUM
+
+00106042	Toca en el arma \n para iniciar la búsqueda
+
+00114000	Esta es el Área de búsqueda. Aquí se pueden desarrollar o actualizar la nuevas y más potentes armas, elementos o, incluso, habilidades (prebendas) con el dinero de juego que has ganado. Estos son ajustes pequeños pero cruciales que pueden alterar de forma significativa el juego. Se basa en una estructura de árbol, por lo que primero tendrás que investigar los elementos básicos en la parte superior para obtener las tecnologías más avanzadas en la parte inferior. Para investigar algo, simplemente toca en el elemento seleccionado y aparecerá la ventana emergente.
+
+02040240	Desde aquí se pueden añadir amigos. \n\n Debes jugar al juego \n para obtener la lista de los otros jugadores. \n\n Siempre puedes añadir amigos individuales manualmente \n si sabes sus nombres de usuario. \n Puedes hacerlo tocando en el botón "añadir por nombre de usuario" de abajo.
+
+00211001	El oro sigue siendo un producto valioso. Ya que no es una moneda de cambio común en el mundo de Shadowgun, puede cambiarse por objetos exclusivos, como Sombreros o Pieles. (El oro puede conseguirse a través del I.A.P. o de ORO GRATIS).
+
+00502047	(Toca en la imagen para ir al menú propiamente dicho)
+
+09960092	¡Un verdadero guerrero tiene un nombre que llama la atención de la gente! \n Al tocar en el APODO en la barra superior (intermitente), puedes acceder a la configuración del perfil desde donde puedes cambiar tu APODO o CONTRASEÑA en cualquier momento.
+
+09960002	Sé que estás ansioso por disparar. \n Así que vamos allá... \n Primero tienes que aprender a jugar DEATHMATCH. \n Toca en el botón (intermitente) del JUEGO...
+
+09960012	Bien, ahora estás en el menú de Spawn. \n Simplemente toca en SPAWN (intermitente) en la parte inferior derecha de la pantalla y ¡ya estás listo para rodar!
+
+09960032	¡Eres bueno! \n ¿Quieres saber lo bueno que eres? \n Toca en RANK en la barra de menú superior (intermitente). \n Aquí encontrarás todo tipo de estadísticas que puedes utilizar para llevar el juego más allá.
+
+09960042	Sí, claro, está bien seguir adelante y darte palmaditas en la espalda a solas en tu habitación, pero no hace daño a echar un vistazo a tus posiciones con respecto a otros jugadores. \n Toca en TABLAS DE CLASIFICACIÓN (intermitente) en la parte inferior de la pantalla y échales un vistazo...
+
+09960052	¡Excelente! \n Has ganado suficiente dinero para obtener una arsenal mejor. \n Toca en el botón BÚSQUEDA (intermitente) y busca una nueva arma.
+
+09960062	OK, ¡has aumentado tu equipamiento! \n Toca en EQUIPO (intermitente) y pon tus artículos en la ranura correspondiente, de manera que los puedas utilizar durante el juego...
+
+09960202	Si conoces el NOMBRE DE USUARIO de tus amigos, puedes agregarles tocando en el botón AMIGOS (intermitente) en la parte inferior de la pantalla. Descubre si están a la altura e invítales a una partida...
+

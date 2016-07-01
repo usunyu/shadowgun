@@ -1,0 +1,30 @@
+﻿
+#touch devices
+
+01140015	+50% ARGENT  +50% EXPERIENCE \n +SKINS PREMIUM +CARACTERISTIQUES PREMIUM 
+
+00106042	Tapotez sur l’arme \n pour commencer la recherche
+
+00114000	Ceci est le domaine de la recherche. Ici, vous pouvez développer ou améliorer de nouvelles armes plus puissantes, des éléments ou les capacités du joueur (petits bénéfices) pour l'argent du jeu que vous avez gagné. Il s'agit là de réglages certes infimes, mais cruciaux qui peuvent considérablement affecter le jeu. Cette technique est basée sur la structure d'un arbre, où vous devez d'abord rechercher les éléments principaux au sommet qui vous conduiront à des technologies de pointe en bas. Pour rechercher un élément, cliquez juste sur l'élément sélectionné, une fenêtre contextuelle s'affichera.
+
+02040240	A partir d’ici, vous pouvez rajouter des amis. \n\n Vous devez jouer \n pour obtenir la liste des autres joueurs. \n\n Vous pouvez toujours ajouter des amis individuels manuellement \n si vous connaissez leurs noms d'utilisateur. \n Vous pouvez le faire en tapotat le bouton ' ajouter par nom d'utilisateur ' ci-dessous.
+
+00211001	L'or reste un bien précieux. Etant donné ce n'est pas une monnaie courante dans le monde de Shadowgun, il peut être échangé contre des objets exclusifs tels que les chapeaux ou les peaux. (L'or est disponible dans IAP ou via OR GRATUIT)
+
+00502047	(Tapotez sur l'image pour obtenir le menu approprié )
+
+09960092	Un vrai guerrier porte un nom qui attire l’attention de tout le monde ! \n En tapotant sur PSEUDO dans la barre supérieure (clignotante), vous pouvez accéder à vos paramètres de profil à partir desquels vous pourrez modifier votre PSEUDO ou MOT DE PASSE à tout moment.
+
+09960002	Je sais que ça vous démange de commencer à tirer \n Alors, on y va... \n Vous devez d'abord apprendre à jouer à DEATHMATCH. \n Tapotez le bouton JEU (clignotant)...
+
+09960012	Bon, maintenant vous êtes dans le menu Générer. \n Tapotez sur GENERER (clignotant) dans la partie inférieure droite de l'écran et vous êtes prêt à envoyer!
+
+09960032	Vous êtes plutôt bon! \n Vous voulez connaitre votre niveau ? \n Appuyez sur CLASSEMENT dans la barre de menu supérieure (clignotante). \n Ici vous trouverez toutes sortes de statistiques que vous pourrez utiliser pour aller encore plus loin dans votre jeu!
+
+09960042	Ouais, allez, d’accord, tapez vous sur le dos, tout seul dans votre chambre, mais ça ne fait jamais de mal de jeter un oeil sur votre classement par rapport aux autres joueurs! \n Tapotez sur TABLEAU DES LEADERS (clignotant) sur le côté inférieur de l'écran et vérifiez...
+
+09960052	Excellent! \n Vous avez gagné suffisamment d'argent pour rechercher un arsenal amélioré. \n Appuyez sur le bouton RECHERCHE (clignotant) et cherchez une nouvelle arme.
+
+09960062	Okay, vous avez renforcé votre équipement ! \n Tapotez sur EQUIPEMENT (clignotant) pour ajouter votre élément dans l’emplacement désigné, de sorte que vous pourrez l’utiliser en cours de jeu...
+
+09960202	Si vous connaissez le NOM D’UTILISATEUR de vos amis, vous pouvez les ajouter en cliquant sur le bouton AMIS (clignotant) sur le côté inférieur de l'écran. Vérifiez s'ils sont à la hauteur du défi avant de les inviter à une partie...

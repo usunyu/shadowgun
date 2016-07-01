@@ -1,0 +1,2093 @@
+﻿#	This is comment line ...
+#
+#	English texts for
+#
+#       ShadowGun Multiplayer
+#
+# -----------------------------
+#
+#     0100 - Main Menu
+#     0101 - Bank
+#     0102 - News Bar
+#     0103 - Login Screen and Register Screen
+#     0104 - Post
+#     0105 - Status Bar
+#     0106 - Leave game
+#     0107 - Player Profile
+#     0108 - Loading Screens
+#     0109 - Lobby and Server Screens
+#     0110 - 113 - Research
+#     0114 - Premium Account Buy
+#     0115 - Social Networks
+#     0116 - Player Summary
+#     0117 - News
+#     0118 - Loading asset bundles
+# -----------------------------
+#
+#     0201 - options
+#     0202 - gamepad
+#     0203 - shop
+#     0204 - Friends
+#     0205 - Equip
+#
+# -----------------------------
+#
+#     0206 - Weapons
+#     0207 - Items
+#     0208 - Hats
+#     0209 - Skins
+#     0210 - Upgrades
+#     0211 - Funds
+#     0212 - Perks
+#     0213 - Technology
+#     0214 - Bundles
+#     0214 - Bosters
+#
+# -----------------------------
+#
+#     0299 - menu hardcoded
+#
+# -----------------------------
+#
+#     0500 - Multiplayer messages
+#     05003 - zone notification in console
+#     05004 - zone names
+#     05005 - Map Names
+#     0501 - Ingame Menu
+#     0502 - Ingame Stats Deadmatch, Domination, Spectator
+#     0503 - Ingame Hud
+#     0504 - Help Screen
+#
+# -----------------------------
+#
+#     8000 - DateTime formating
+#
+# -----------------------------
+#
+#     9900 - Tutorial
+#     9999 - Achievements
+#
+# -----------------------------
+# default ASCII chars - Force font generator to generate basic ASCII chars for all fonts
+# !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+# -----------------------------
+
+
+
+
+
+
+
+
+# -----------------------------
+#     0100 - Main Menu
+# ----------------------------
+
+00100000	JEU
+00100001	ÉQUIPER
+00100002	BOUTIQUE
+00100003	STATISTIQUES
+00100004	AMIS
+00100005	PLUS D'APPLICATIONS
+00100006	VERSION BETA PUBLIQUE
+00100007	L'EXPÉRIENCE DU JEU PEUT CHANGER DANS LA VERSION FINALE
+00100008	RENVOYER UN FEEDBACK
+00100009	FEEDBACK
+00100010	RECHERCHE
+00100011	OPTIONS
+00100012	CLASSEMENT
+00100013	BIENVENU SUR DEADZONE
+00100014	En atteignant la Deadzone de Shadowgun, vous avez prouvé votre courage \n en luttant contre les meilleurs guerriers de l'univers connu ! \nVous livrerez une bataille féroce pour sauver votre vie. Faites attention \n aux techniques de combat, ainsi qu'à la quête des meilleurs équipements et armes. \nGardez la tête froide, ayez de bon reflexes et stabilisez votre objectif.
+00100015	MONTREZ-MOI LES ASTUCES ET LES INDICES
+00100016	CHAT
+00100017	COURRIER
+00100018	RÉSEAUX SOCIAUX
+00100019	CASINO
+00100020	Vous êtes banni jusqu'au {0}, {1}
+00100021	ACHETER L'OR
+00100022	OR GRATUIT
+00100023	Si vous aimez DEAD ZONE, veuillez nous envoyer vos commentaires pour nous aider à s’améliorer
+00100024	Oui, donnez-lui une note !
+00100025	Me le rappeler ultérieurement
+00100026	Ne plus demander
+
+# -----------------------------
+# 0101xxxx Bank
+# -----------------------------
+
+01011000	AIMEZ-NOUS ! SUIVEZ-NOUS ! UTILISEZ LES RÉSEAUX SOCIAUX !
+01011001	Votre banque est-elle pleine de zombis ?
+01011002	Alors rejoingnez notre communauté! Aidez-nous à améliorer les jeux ! Soutenez DEAD TRIGGER à travers les annonces !
+01011003	OBTENEZ GRATUITEMENT DE L'OR
+
+
+01011050	Publicité vidéo
+01011060	Tapjoy
+01011070	Suivez-nous sur Twitter
+01011071	Visitez-nous sur Twitter
+01011080	Aimez Shadowgun sur Facebook
+01011081	Visitez Shadowgun sur Facebook
+01011090	Aimez MADFINGER sur Facebook
+01011091	Visitez MADFINGER sur Facebook
+01011100	Aimez Dead Trigger sur Facebook
+01011101	Visitez Dead Trigger sur Facebook
+01011110	Récompense...
+01011111	Vous avez obtenu une récompense de % de pièces d'ors !
+01011120	État de vérification...
+
+
+# -----------------------------
+#     0102 - News Bar
+# -----------------------------
+
+00102000	Jeux Shadowgun Deadzone - MADFINGER (c) 2012-2015. Tous droits reservés.
+
+# -----------------------------
+#     0103 - Login Screen and Register Screen
+# -----------------------------
+
+00103000	CONNEXION
+00103001	CONNEXION DE L'UTILISATEUR
+00103002	CRÉER UN NOUVEL UTILISATEUR
+00103003	MOT DE PASSE OUBLIE ?
+00103004	NOM D'UTILISATEUR
+00103005	MOT DE PASSE
+00103006	Gardez ma session \n ouverte sur \n cette ordinateur
+00103007	Me connecter \n automatiquement \n à chaque visite
+00103008	+ Superb Multiplayer
+00103009	+ Sauvegarde Cloud
+00103010	+ Classements et statistiques
+00103011	OK
+00103012	ANNULER
+00103013	SAISIR LE NON D'UTILISATEUR
+00103014	NOM D'UTILISATEUR
+00103015	CRÉER UN NOUVEAU COMPTE
+00103016	* NOM DE L'UTILISATEUR (de {0} à {1} caractère)
+00103017	* MOT DE PASSE (au moins {0} caractère)
+00103018	* CONFIRMEZ LE MOT DE PASSE
+00103019	* ADRESSE E-MAIL
+00103020	Je veux recevoir des informations de Madfinger
+00103021	* J'approuve les modalités et \n les conditions de l'Accord de licence
+00103022	Les champs portant une * sont obligatoires
+00103023	Astuce
+00103024	E-MAIL VALIDE
+00103025	MOT DE PASSE
+00103026	RESAISIR LE MOT DE PASSE
+00103027	NOM D'UTILISATEUR
+00103028	CONNEXION
+00103029	SI VOUS SOUHAITEZ JOUER, VOUS DEVEZ D'ABORD VOUS CONNECTER AVEC UN COMPTE PERSONNEL.
+00103030	JEU RAPIDE
+00103031	CONNEXION AVEC \n FACEBOOK
+00103032	CONNEXION AVEC \n UN COMPTE CLIENT
+00103033	Choix du joueur occasionnel. \n Compte borné \n à cet appareil.
+00103034	Utilisez vos identifiants\n Facebook pour vous connecter.
+00103035	Configurez votre propre compte !\n Choisissez votre pseudo, votre mot \n de passe et votre adresse email \n de récupération.
+00103036	(Vous pouvez toujours modifier les paramètres de votre compte plus tard)
+00103037	N'est pas pris en charge !
+00103038	Vous n'êtes pas obligé de fournir une adresse email de récupération, \n mais nous vous le recommandons vivement. \n Nous pouvons vous envoyer un lien pour y saisir un nouveau mot de passe, \n en cas d'oubli de celui-ci. \n\n Bien entendu, vous pouvez passer cette étape.
+00103039	PASSER
+00103040	ADRESSE EMAIL DE RÉCUPÉRATION
+00103041	Saisir une adresse email
+00103042	Nous sommes désolés, un problème est survenu \n lors de votre demande. Échec de l'opération.
+00103043	Opérations en cours, \n veuillez patienter...
+00103044	DEMANDE DE RÉCUPÉRATION DE MOT DE PASSE
+00103045	Veuillez suivre ce lien pour modifier le mot de passe :
+00103046	Réinitialiser le mot de passe
+00103047	Les instructions de récupération du mot de passe ont été envoyées \n à votre adresse email.
+
+# -----------------------------
+# 0104xxxx post
+# -----------------------------
+
+00104000	POSTE
+00104010	L'adresse e-mail du client n'est pas disponible...
+00104011	Messagerie désactivée...
+00104110	SHADOWGUN MULTIPLAYER: Feedback
+00104111	Nous attendons vos réactions. Surtout n'hésitez pas à nous contacter !
+00104112	Aucun message sélectionné.
+00104113	ENVOYER
+00104114	ECRIRE UN MESSAGE A {0}
+00104115	REPONDRE
+
+# -----------------------------
+#     0105 - Status Bar
+# -----------------------------
+
+00105000	EN LIGNE
+00105001	Obtenez un compte Premium et activez les fonctions Premium !
+00105002	Jouez plus pour obtenir plus de fonds !
+00105003	Gagner plus d'or !
+00105004	N'oubliez pas de surveiller votre progression !
+00105005	Revenez demain et obtenez gratuiment des jetons !
+00105006	Améliorez ou renouvelez votre compte Premium dès maintenant !
+00105007	EXPERIENCE\nCOMPTE PREMIUM
+00105008	COMPTE PPREMIUM\n({0}{1})
+00105009	min
+00105010	mins
+00105011	hre
+00105012	hres
+00105013	jour
+00105014	jours
+00105015	semaine
+00105016	semaines
+00105017	mois
+00105018	mois
+00105019	sec
+00105020	COMPTE GRATUIT
+00105021	Modifiez votre pseudonyme ou votre région.
+00105022	COMPTE PREMIUM
+00105023	Contrôlez plus de jeux à partir de MADFINGER !
+00105024	Fermer
+00105025	Appréciez le combat d'un contre tous !
+00105026	Appréciez la bataille en équipe !
+00105027	Appréciez le jeu !
+00105028	Dotez votre joueur \n d'armes, \n d'atouts et d'articles puissants !
+00105029	Déverrouillez les nouveaux articles \n et mettez vos armes à niveau !
+00105030	Achetez des articles décorés \n et augmentez vos fonds !
+00105031	Activez plus d'armes \n dans le menu Recherche !
+00105032	Activez plus d'armes et les fentes \n d'articles dans le menu Recherche !
+00105033	Choissisez les avantages ! \n Vous pouvez en activer plus \n dans le menu recherche !
+00105034	Portez votre chapeau ! \n Vous pouvez en acheter \n dans le menu Boutique !
+00105035	Choissisez votre peau ! \n Vous pouvez en acheter \n dans le menu Boutique !
+00105036	Configurez vos commandes \n et vos paramètres de qualité.
+00105037	Connectez-vous avec vos amis \n pour surveiller leur progression.
+00105038	Plus d'application de \n Madfinger Games
+00105039	Comparez-vous à d'autres joueurs !
+00105040	Trouvez d'autres jeux dans TheApps !
+00106040	Sélectionnez la catégorie que vous souhaitez rechercher.
+00106041	Voici des sous-catégories de recherche. Passez \n de l'une à l'autre pour accéder à différents arbres de recherche.
+00106043	Mises à niveau supplémentaires disponibles pour les armes. \n Elles apportent des améliorations significatives aux statistiques des armes.
+
+# -----------------------------
+# 0106xxxx exit / logout
+# -----------------------------
+
+00106000	QUITTER LE JEU
+00106001	Voulez-vous vraiment quitter le jeu ?
+
+00106002	CONNEXION
+00106003	DÉCONNEXION
+00106004	Voulez-vous vraiment vous déconnecter ?
+00106011	Voulez-vous vraiment abandonner la partie ?
+00106012	Vous êtes sur le point de quitter le match. \n\n Vous ne serez pas récompensé par les points d'expérience, \n de l'argent ou de l'or si vous quitter le jeu avant sa fin. \n\n Êtes-vous sûr ?
+00106013	Voulez-vous vraiment quitter le jeu?
+
+
+# -----------------------------
+#     0107 - PLAYER PROFILE
+# -----------------------------
+
+00107000	PROFIL DU JOUEUR
+00107001	VOS PROPRES STATISTIQUES
+00107002	STATISTIQUES
+00107003	VOS RÉSULTATS
+00107004	PROCHAINS ARTICLES
+00107005	RÉCOMPENSES
+00107006	TYPE D'ENREGISTREMENTS
+00107007	VALEUR DE L'ENREGISTREMENT
+00107008	SE CONNECTER
+00107009	PSEUDONYME
+00107010	NOM D'UTILISATEUR
+00107011	RECEVEZ DES INFORMATIONS
+00107012	CONFIRMEZ LES MODIFICATIONS
+00107013	Pseudonyme très court. Veuillez utiliser au moins {0} caractère.
+00107014	Mot de passe très court. Veuillez utiliser au moins {0} caractère.
+00107015	Les mots de passe ne correspondent pas !
+00107016	Entrez le mot de passe pour confimer vos modifications
+00107017	Entrez le pseudonyme
+00107018	Entrez le nouveau mot de passe
+00107019	Resaisissez le nouveau mot de passe
+00107020	Votre profile à été mis à jour avec succès
+00107021	Désolé, mais nous n'avons pas pu mettre votre profile à jour.\nVeuillez reéssayer ultérieurement.
+00107022	Votre profil est en cours de mise à jour. Veuillez patienter...
+00107023	Désolé, vous avez entré un mot de passe invalide. Veuillez reéssayer ultérieurement.
+00107024	OK
+00107025	La modification de mot de passe n'est autorisée \n que pour les comptes personnalisés.
+00107026	Un écran pop-up vous demandera \n de saisir votre mot de passe pour confirmer les modifications.
+00107027	Le pseudo ne peut contenir que des lettres et des chiffres latins.
+00107028	You are playing with a Quick Play account! \n\n We strongly recommend that you to migrate to a Custom account. \n\n Enter your email and press 'REQUEST MIGRATE!' to process!
+00107029	Your Quick Play account is no longer available. \n We can use locally stored data to migrate \n your existing account into a new Custom Account. \n\n Enter your email and press 'REQUEST MIGRATE!' to process!
+00107030	ENTER YOUR EMAIL
+00107031	REQUEST MIGRATE!
+00107032	MIGRATE YOUR QUICK PLAY ACCOUNT
+00107033	Please check your email for further instructions...
+00107034	IGNORE
+00107035	Are you sure?
+00107036	You may lose all your previous game progress!
+00107037	Check Facebook or forums for further info.
+00107038	LET ME IN
+00107039	I DON'T CARE
+00107040	Please enter your email address. \n This must be a valid email address. \n\n We will send you an email with instructions \n how to migrate your Quick Play account.
+00107041	Please check your email for further instructions... \n\n We are very sorry for your inconvenience. \n Thank you for your patience!
+
+
+# -----------------------------
+#     0108 - Loading Screens
+# -----------------------------
+
+00108000	CHARGEMENT
+00108001	VEUILLEZ PATIENTER...
+00108002	Astuce :
+00108003	DEPLACER
+00108004	TIRER
+00108005	RECHARGER
+00108006	ZOOM
+00108007	SPRINTER
+00108008	RADAR
+00108009	MENU
+
+
+# -----------------------------
+#     0108100-0108199 HINTS TO FIGHT
+# -----------------------------
+
+00108100	Astuce : Les tirs à la tête infligent beaucoup plus dégâts à vos ennemis. Tirez à la tête bébé !
+00108101	Astuce: Vous vous faites tuer un peu trop souvent par des grenades et des lance-roquettes ? Protégez-vous avec un gilet pare-balles.
+00108102	Astuce: Vous n'avez pas toujours besoin de tuer vos ennemis. Obtenez des points en les blessant aussi.
+00108103	Astuce : Lorsque vous tuez un ennemi qui utilise une fusée d’appoint, vous serez récompensé avec de l'or.
+00108104	Astuce : Les tourelles de sentinelle vous déprime ? \n Vous pouvez les essuyer avec une grenade EMP ou avec une action de mêlée.
+00108105	Astuce : Les ennemis maintiennent une position et vous ne pouvez pas passer ? Glissez-vous derrière eux en utilisant l’Invisibilité et les anéantir !
+00108106	Astuce : Pas le plus adroit des tireurs ? \n Prenez un fusil de chasse et allez près de l’individu !
+00108107	Astuce : Le couloir est couvert par un tireur d'élite qualifies ? Utiliser un coup de pouce pour l'invisibilité ou la vitesse.
+00108108	Astuce : En combat rapproché, vous pouvez renverser un ennemi vers le bas et le faire manger du plomb...
+00108109	Astuce: Savez-vous dans quelle direction viennent vos ennemis ? Utilisez les mines pour leur souhaiter la bienvenue !
+00108110	Astuce : Les grenades sont excellentes pour souffler les campeurs.
+00108111	Astuce: Apprenez à tirer en courant ... \n Vous serez beaucoup plus difficile à atteindre de cette façon.
+00108112	Astuce : Ne jamais foncer directement sur vos ennemis. \n Utiliser les obstacles et les terrains pour créer une couverture.
+
+# -----------------------------
+#     0108200-0108299 HINTS FROM FIGHT
+# -----------------------------
+
+00108200	Astuce: Utilisez la recherche afin de mieux vous équiper pour la bataille !
+00108201	Astuce : Vous avez besoin d'or ? Vous pouvez l’obtenir gratuitement dans la section Or gratuit.
+00108202	Astuce : Avec un compte Premium, vous gagnerez plus d’expérience, de l’argent et de l’or que si vous n’en n’aviez pas.
+00108203	Astuce : Lorsque vous recherchez des dépôts d'armes, \n vous pouvez transporter plus d'armes ...
+00108204	Astuce : Gardez toujours vos yeux noircis ? Accédez à la boutique pour obtenir de l’aide de Boosters...
+00108205	Astuce : les paramètres de chaque arme peuvent être mis à niveau et améliorés par la recherche.
+00108206	Astuce : Dans le casino, vous pouvez gagner l’or. Chaque jour vous recevrez des jetons de casino gratuits pour jouer.
+00108207	Astuce : Toujours tué un peu très souvent par les grenades et les lances roquette ? Protégez-vous avec un gilet pare-balles.
+00108208	Astuce : Lorsque vous tuez un ennemi qui utilise une fusée d'appoint, vous êtes récompensé avec de l'or.
+00108209	Astuce : Si vous connaissez le surnom de vos amis, vous pouvez les inviter à jouer avec vous.
+00108210	Astuce : Procurez-vous un chapeau le plutôt possible ! Il protège même les plus pires joueurs contre les premiers tirs infligés sur la tête.
+00108211	Astuce : Vous pouvez améliorer vos attributs de caractères grâce à la recherche et aux atouts.
+00108212	Astuce : Pas de procédure, pas de compétences ... Apprenez à vous déplacer, à tirer et à mémoriser la présentation !
+
+# -----------------------------
+#     0109 - Lobby and Server Screens
+# -----------------------------
+
+00109001	CONFIGUREZ LE JEU ET JOUEZ
+00109002	DIFFICULTÉ
+00109003	MODE JEU
+00109004	VOTRE RÉGION
+00109005	JOUEZ !
+00109006	ÉGALITÉ
+00109007	DIFFICILE
+00109008	ALÉATOIRE
+00109009	DEATHMATCH
+00109010	CONTRÔLE DE LA ZONE
+00109011	EUROPE
+00109012	AMÉRIQUE
+00109013	ASIE
+00109014	Deathmatch classique... \n vous contre tout le monde
+00109015	Votre équipe doit obtenir \n tous les drapeaux dans ce niveau
+00109016	Choisissez les serveurs avec des joueurs \n équivalant à votre technique
+00109017	Choisissez les serveurs avec des joueurs \n plus élevés que votre rang
+00109018	Vous serez envoyer sur \n un serveur aléatoire
+00109019	Sélectionnez correctement votre région \n pour une meilleure connexion
+00109020	SÉLECTIONNER LE SERVEUR DU JEU
+00109021	CHOIX DES FILTRES
+00109022	TOUS LES FILTRES SONT DÉSACTIVES
+00109023	NOM DE LA CARTE
+00109024	JOUEURS
+00109025	MODE
+00109026	PING
+00109027	NOM DU SERVEUR
+00109028	LAN
+00109029	ACCEUIL
+00109030	- SE CONNECTER -
+00109031	CONFIGUREZ LE JEU ET JOUEZ
+00109032	SE CONNECTER
+00109033	SERVEURS LAN
+00109034	SERVEURS D'ENTRÉE
+00109035	CHOISIR LE MODE DE JEU
+00109036	DEATHMATCH
+00109037	CONTRÔLE DE LA ZONE
+00109038	JOUER AVEC DES AMIS
+00109039	AMIS
+00109040	AMIS INVITÉS
+00109041	CONFIGURER LE JEU
+00109042	LANCEZ !
+00109043	MATCH RAPIDE
+00109044	En ligne
+00109045	Hors ligne
+00109046	En attente
+00109047	Prêt
+00109048	PRÊT !
+00109049	Préférer le serveur avec le chat vocal
+00109050	CHAT
+00109051	MODE DE JEU
+00109052	INVITATION AU MATCH CRÉÉE PAR : {0}
+00109053	INVITATION ANNULÉE !
+00109054	Une partie de jeu a été trouvé ! Rejoindre la partie...
+00109055	Nous sommes désolés, actuellement aucune partie de jeu n'est disponible\n pour votre demande ! Veuillez essayer plus tard.
+00109056	Cette version du jeu n'est plus prise en charge.\nVeuillez la mettre à jour vers la dernière version.
+00109057	Le jeu est actuellement en cours de maintenance.\nVeuillez essayer d'y revenir plus tard.
+00109058	Recherche d'un jeu approprié...
+00109059	Connexion au serveur...
+00109060	Vous n'êtes pas connecté au serveur.\nVérifiez que vous êtes en ligne et essayez à nouveau.
+00109061	MATCHMAKING
+00109062	Vous n'avez pas pu vous connecter au jeu.
+00109063	Jouer
+00109064	JOUER AVEC DES AMIS
+00109065	{0} vous invite à faire un combat. \n Qu'en pensez-vous ?
+00109066	ZONE CONTROL \n (verrouillé jusqu'au rang 4)
+00109067	BONUS !
+#     NEW
+00109070	INVITER\nAMIS
+
+00109071	PRÊT ?
+
+
+# -----------------------------
+#     0110 - RESEARCH
+# -----------------------------
+
+00110010	ARMES
+00110020	ARTICLES
+00110030	ÉQUIPER
+00110040	AVANTAGES
+#Weapons
+00110110	ASSAUT
+00110111	FUSILS D'ASSAUT
+00110112	MITRAILLEUSES
+00110120	FERMER LE RNG
+00110121	FUSIL DE CHASSE
+00110122	PETITES MITRAILLEUSES
+00110130	ENERGIE
+00110131	FUSIL A LUNETTE
+00110132	LANCEURS DE PLASMA
+00110140	LANCEURS
+00110141	LANCEURS DE ROCKET
+
+#Items
+00110210	JEU D'ÉQUIPE
+00110211	GUÉRISON DE LA ZONE
+00110212	RADAR ET BROUILLEUR
+00110213	RÉAPPROVISONNEMENT DE LA ZONE
+00110220	EXPLOSIF
+00110221	AVTGE GRENADES
+00110222	GRENADES FRAG ET EMP
+00110223	MINES
+00110230	ROBOTIQUE
+00110231	SNIPER SENTRY
+00110232	MITRAILLEUSE SENTRY
+00110233	ROQUETTE SENTRY
+00110234	SENTINELLES
+#Equip
+00110310	INVENTAIRE
+00110311	PORT D'ARME
+00110312	PORT D'ARTICLES
+00110313	MUNITIONS SUPPLÉMENTAIRES
+#Perks
+00110320	ATOUTS SANTÉ
+00110321	ATOUTS SANTÉ
+00110322	ATOUTS ARMURE
+00110330	ATOUTS DÉPLACEMENT
+00110331	ATOUT AGILITÉ
+00110332	ATOUTS SPRINT
+
+
+00111010	RECHERCHE
+00111020	DÉGÂT
+00111030	COUPE-FEU
+00111040	PRÉCISION
+00111050	LAME-CHARGEUR
+00111060	INVENTAIRE
+00111070	PORTÉE
+00111080	DURÉE
+00111090	DÉTECTION
+00111100	TAUX DE GUÉRISON
+
+00112010	Recherche :
+00112011	RECHERCHE
+00112012	MISES A NIVEAU DISPONIBLES
+00112015	ARBRE DE RÉINITIALISATION
+00112016	ARBRE DE RÉINITIALISATION
+
+00112020	DÉGÂT
+00112030	TAILLE DE \n LA LAME-CHARGEUR
+00112040	PRÉCISION
+00112050	VITESSE DE LA BALLE
+00112060	DÉCOMPTE AMMO
+00112070	ZOOM DU FEU
+00112080	SILENCIEUX
+00112090	VITESSE DU FEU
+
+00113010	Attention !
+00113020	Tous les articles recherchés dans\ncette arbre seront remboursés !
+00113030	REMBOURSEMENT
+00113040	Remboursement en cours...
+00113050	RECHERCHE
+00113060	Recherche en cours...
+00113070	Technique requise :
+00113080	Vous n'avez pas suffisament d'argents ?
+00113090	Recherchez d'abord l'article parent !
+00113100	L'article est verrouillé par rang
+00113091	Technique requise :
+
+# -----------------------------
+#     0114 - Premium Account Buy
+# -----------------------------
+
+01140000	PREMIUM
+01140001	COMPTE
+01140002	OBTENEZ DE L'OR GRATUITEMENT
+01140003	ACHETEZ MAINTENANT !
+01140004	ACHETEZ DE L'OR
+01140005	{0} ORS
+01140006	{0} OR
+01140007	heures
+01140008	jours
+01140009	semaine
+01140010	mois
+01140011	mois
+01140012	ÉPARGNEZ {0}%
+01140013	-MEILLEUR VENTE-
+01140014	-MEILLEUR PRIX-
+01140016	SÉLECTIONNEZ SOUSCRIPTION :
+01140017	COMPTE PREMIUM
+01140018	Traitement. Veuillez patienter...
+01140019	Votre compte Premium est désormais bien activé.
+01140020	Votre compte Premium est désormais bien renouvellé.
+01140021	Une erreur s'est produite lors de l'activation de votre compte Premium, bien vouloir réessayer.
+01140022	heure
+01140023	jour
+01140024	semaines
+01140025	{0}
+
+# -----------------------------
+# 0115xxxx - Social Networks
+# -----------------------------
+
+01150000	Vous avez gagné death-match au niveau  '%s'!
+01150001	Vous avez pris la deuxième place dans death-match au niveau '%s' !
+01150002	Vous avez pris la troisième place dans death-match au niveau '%s' !
+
+01150003	Vous avez pris la prmière place (au score) dans le contrôle de zone dans le niveau '%s' !
+01150004	Vous avez pris la deuxième place (au score) dans le contrôle de zone au niveau '%s' !
+01150005	Vous avez pris la troisième (au score) dans le contrôle de zone au niveau '%s' !
+
+01150006	Rejoignez-moi dans ce jeu intéressant de shoot à la première personne multijoueur !
+
+01150007	Voulez-vous afficher les résultats dans votre Facebook !
+01150008	Voulez-vous afficher les résultats dans votre Twitter !
+
+01150009	Premier rang atteint !
+01150010	Souhaitez-vous le publier ?
+01150011	En tant que '{0}' j'ai atteint le rang {1} dans SHADOWGUN : DEADZONE. \n Rejoignez-moi et tentez de me battre !
+
+01150020	{0} remporté le match de la mort au niveau {1}!
+01150021	{0} fait 2ème au match de la mort au niveau {1}!
+01150022	{0} fait 3ème au match de la mort au niveau {1}!
+
+01150023	{0} pris la 1 ère place (au score) à Zone Control niveau {1}!
+01150024	{0} pris la  2 ème place (au score) à Zone Control niveau {1}!
+01150025	{0} took 3 ème place (au score) à Zone Control niveau {1}!
+
+
+
+# -----------------------------
+# 0116xxxx - Player Summary
+# -----------------------------
+
+01160000	APPERÇU
+01160001	MATCHS RECENTS
+01160002	ARSENAL PRÉFÉRÉ
+01160003	Rang
+01160004	Meurtres
+01160005	Morts
+01160006	Meurtre/Minute
+01160007	Temps de jeu\ntotal
+01160008	Score total
+01160009	Argent gagné
+01160010	XP Gagné
+01160011	Précision
+01160012	Photos
+01160013	Coups de feu tirés
+01160014	HRS
+01160015	{0} XP AU PROCHAIN RANG
+01160016	DEATHMATCH
+01160017	CONTRÔLE DE LA ZONE
+01160018	Joué pour
+01160019	{0} heures
+01160020	Victoires/défaites
+01160021	ARMES PRÉFÉRÉES
+01160022	ARTICLE PRÉFÉRÉ
+01160023	AVANTAGES PRÉFÉRÉS
+01160024	CHAPEAU PRÉFÉRÉ
+01160025	COULEUR PRÉFÉRÉ
+01160026	{0} MEURTRES
+01160027	SCORE TOTAL
+01160028	DEATHMATCH
+01160029	CONTRÔLE DE LA ZONE
+01160030	Position
+01160031	Résultat de l'équipe
+01160032	Prises des zones
+01160033	{0} mins
+01160034	{0} MEURTRE
+01160035	Heure
+01160036	MINS
+01160037	MIN
+01160038	{0} heure
+01160039	{0} min
+01160040	Or gagné
+
+
+# -----------------------------
+# 0117xxxx - News
+# -----------------------------
+
+01170000	QU'Y A-T-IL DE NOUVEAU DANS LA MISE À JOUR ?
+01170001	VITESSE DU SERVEUR AMÉLIORÉE
+01170002	Moins d'attente, plus de jeu !
+01170003	NOUVELLES CARTES
+01170004	Un avant-poste et une batterie d'artillerie vous offrent un nouveau champ de bataille !
+01170005	ARMES ET ARTICLES
+01170006	Mis à jour et équilibré pour une meilleure expérience multijoueur !
+01170007	RÉPARATION DE BUGS MINEURS
+01170008	Nous avons réparé ce que nous pouvions. Si vous trouvez des bugs, faites-le nous savoir !
+
+01170009	CHANGEMENT IMPORTANT DANS LA NOUVELLE MISE À JOUR !
+01170010	En raison de réparations nécessaires dans le menu Recherche,\n tous les articles de Recherche seront réinitialisés à leurs paramètres d'origine.\n TOUS vos fonds de jeu investis SERONT replacés dans votre\n compte de jeu afin que vous puissiez les réutiliser pour faire une recherche\n avec toutes vos armes et tous articles préférés.\n Nous sommes vraiment désolés pour les désagréments et les erreurs causés.\n Nous travaillons dur afin de garantir que tous les problèmes ont été résolus.\n Nous vous remercions de votre patience et amusez-vous bien !
+
+# -----------------------------
+# 0118xxxx - Loading asset bundles
+# -----------------------------
+
+01180001	Téléchargement des données du jeu : {0:0}%
+01180002	ERREUR
+01180003	Echec du téléchargement des données du jeu. \n Veuillez vérifier votre connexion et relancez le jeu.
+01180004	Téléchargement de la carte'{0}' : {1:0}%
+
+# -----------------------------
+# 0119xxxx - WebLoader scene
+# -----------------------------
+
+01190001	TÉLÉCHARGEMENT EN COURS:
+01190002	VEUILLEZ PATIENTER, LE JEU TELECHARGE LES DONNEES D'ACTIF
+01190003	SE CONNECTER VIA \n COMPTE FACEBOOK 
+01190004	Utilisez votre compte personnalisé \n pour vous connecter.
+01190005	JOUER AVEC COMPTE FACEBOOK 
+01190006	SE CONNECTER AVEC COMPTE PERSONNALISE
+01190007	Vous jouez pour la première fois? \n Il suffit de cliquer sur ce bouton pour commencer à jouer en utilisant votre compte Facebook:
+01190008	Si vous avez déjà joué à Shadowgun: DeadZone et paramétrez votre\n compte d’utilisateur personnalisé, vous pouvez saisir vos identifiants ici:
+
+# -----------------------------
+# 0201xxxx OPTIONS
+# -----------------------------
+
+02010000	CONFIGURATION
+02010001	CONTRÔLES
+02010002	SYSTEME DE CONTRÔLE
+02010003	PAVÉ DE DÉPLACEMENT GRATUIT
+02010004	PAVÉ DE DÉPLACEMENT STATIQUE
+02010005	SENSIBILITE DE L'OBJECTIF
+02010006	APERÇU INVERSÉ
+02010007	OBJECTIF MAIN GAUCHE
+02010008	ACTIVER
+02010009	DÉSACTIVER
+02010010	SUIVANT
+02010011	PRÉCÉDENT
+02010012	RÉINITIALISER
+02010013	SONS
+02010014	VOLUME DE LA MUSIQUE
+02010015	SOUS-TITRES EN JEU
+02010016	CONFIGURATION DU PLAN
+02010017	RETOUR
+02010018	CONFIGURATION DU PAVÉ DU JEU
+02010020	DÉTAILS DU GRAPHIQUE
+02010021	AUTODÉTECTION
+02010022	BAS
+02010023	MOYEN
+02010024	ÉLEVÉ
+02010025	ACTIVER LA MUSIQUE
+02010026	PERSONNALISEZ LES PLANS DE CONTRÔLE
+02010027	FAITES GLISSER LES BOUTONS DE CONTRÔLE A LA POSITION SOUHAITÉE
+02010028	TRÈS ÉLEVÉ
+02010029	OK
+02010030	AIDE
+02010031	FERMEZ
+02010032	CHAT VOCAL
+02010033	En vous connectant avec votre compte Premium, \n vous activez la chat vocal.
+02010034	CHAT VOCAL
+02010035	NIVEAU DU MICROPHONE
+02010036	VOLUME DU SON
+02010037	RÉGLER LE MICROPHONE
+02010038	TRÈS BAS
+02010039	TRÈS ÉLEVÉ
+02010040	Nouvelle manette détectée !
+02010041	Allez au menu Options pour configurer la manette.
+02010042	MUSIQUE
+02010043	Vous devez retourner au menu principal \n pour appliquer les paramètres graphiques.
+02010044	Appuyez sur Régler le microphone et parlez \n pendant {0} secondes afin de régler votre microphone.
+02010045	Appuyez sur Régler le microphone et parlez \n pendant 5 secondes afin de régler votre microphone.
+02010046	Vous pouvez activer ou désactiver le chat vocal \ dans le menu principal.
+02010047	MONTRER DES CONSEILS ET ASTUCES
+02010048	AFFICHER
+02010049	TAILLE DU BOUTON TIRER
+02010050	RÉGLAGE... \nParlez dans votre microphone avec un volume de voix normal.
+02010051	MICROPHONE
+02010052	SON COUPÉ
+02010053	SON RÉTABLI
+02010054	ACTIVÉ
+02010055	DÉSACTIVÉ
+02010056	AIDE MOGA
+02010060	LANGUE
+02010061	ENGLISH
+02010062	SPANISH
+02010063	FRENCH
+02010064	GERMAN
+02010065	ITALIAN
+02010066	RUSSIAN
+02010067	CHINESE
+02010068	KOREAN
+02010069	JAPANESE
+02010070	EXPERIMENTAL
+02010071	*FEU FLOTTANT
+02010072	RESOLUTION
+02010073	PLEIN ECRAN
+02010074	INSTALLER LE CLAVIER
+
+
+# -----------------------------
+# 0202xxxx Gamepad config
+# -----------------------------
+02020000	CONFIGURATION DE LA MANETTE DE JEU
+02020001	Action
+02020002	Bouton
+02020003	Réinitialisez aux valeurs par défaut
+02020004	Retour
+02020005	Feu
+02020006	Recharger
+02020007	Sprint
+02020008	Enroulez
+02020009	Pause
+02020010	Arme 1
+02020011	Arme 2
+02020012	Arme 3
+02020013	Article 1
+02020014	Article 2
+02020015	Article 3
+02020016	Allez vers la droite
+02020017	Allez vers le haut
+02020018	Regardez à droite
+02020019	Regardez en haut
+02020020	Changer d'arme
+02020021	Arme suivante
+02020022	Arme précédente
+02020023	Déplacement vers la gauche
+02020024	Déplacement vers le bas
+02020025	CONFIGURATION DU CLAVIER
+02020026	Commandes rapides
+
+02021000	COMMANDES MOGA
+02021001	SE DÉPLACER
+02021002	REGARDER AUTOUR DE SOI
+02021003	R - TIRER
+02021004	L - SPRINT
+02021005	PAUSE
+02021006	CHANGER D'ARME
+02021007	X - ENROULER
+02021008	A - UTILISER ARTICLE
+02021009	B - CHANGER ARTICLE
+02021010	Y - RECHARGER
+
+
+02021011	R1 - RECHARGER
+02021012	R2 - TIRER
+02021013	L1 - ENROULER
+02021014	L2 - SPRINT
+
+
+02000120	GAUCHE - ARME PREC
+
+02000121	DROITE - ARME SUIVANTE
+
+02000122	HAUT - ARTICLE PREC
+
+02000123	BAS - ARTICLE SUIVANT
+
+
+02021040	MONTRER À NOUVEAU LORS DE LA CONNEXION
+
+
+
+
+
+
+# -----------------------------
+# 0203xxxx Shop
+# -----------------------------
+02030001	PEAUX
+02030002	CHAPEAU
+02030003	PAQUETS
+02030004	OR
+02030005	ARTICLES
+02030007	OR GRATUIT
+02030020	ACHETER
+02030021	MISE À NIVEAU
+02030022	COÛT
+02030023	ÉQUIPER
+02030024	ACCEPTER
+02030025	ACHETER
+02030026	MISE À NIVEAU
+02030027	AJOUTER DES FONDS
+02030028	CONVERTIR DES FONDS
+02030029	DE
+
+02030030	DÉGÂT
+02030031	PRÉCISION
+
+02030032	LAME-CHARGEUR
+02030033	PORTÉE
+02030034	NÉCESSITE UN RANG PLUS ÉLEVÉ
+02030035	BOUTIQUE
+02030036	AJOUTER DES FONDS
+02030037	FONDS INSUFFISANTS/
+02030038	NÉCESSAIRE
+02030039	ACHETÉ
+02030040	CONVERTIR
+02030041	OK
+
+02030042	ACHAT ÉCHOUÉ.
+02030043	ACQUIS :
+02030044	ACHETER DES FONDS
+02030045	PATIENTEZ...
+02030046	ACHAT D'APPLICATION ENTRANTE
+02030047	SERVICE NON DISPONIBLE
+02030048	RÉUSSI
+02030049	ÉCHOUÉ
+02030050	ANNULÉ
+02030051	CARACTÈRE
+02030052	MAXIMUM
+02030053	VERROUILLÉ
+02030054	ACQUIS :
+02030055	UTILISATION INFINIE
+02030056	Réalisations déverrouillées !
+02030057	OR GRATUIT
+02030058	GAGNER
+
+02030059	ÉQUIPÉ
+02030060	NOUVEAU
+02030061	ACQUIS :
+02030062	VENTE
+02030063	DÉVERROUILLÉ
+02030064	%d1% GRATUIT
+02030065	RARE
+02030066	SÉLECTIONNÉ
+02030067	IAP
+02030068	ÉTEINDRE %d1%
+
+02030070	Achat recouvré
+02030071	Ancien achat non traité reçu.
+02030072	Échec de la connexion. Vous devriez recevoir de l'or la prochaine fois que vous vous connecterez.
+02030073	ACHETER DE L'OR
+02030080	Requiert le rang %d1
+02030081	ARGENT
+
+02030082	PACK
+
+02030090	APERÇU
+
+02030091	INFO
+
+02030092	PAS ASSEZ DE FONDS
+02030093	ACHETER DE %d1 L'GOLD ?
+
+02030094	OK
+
+
+02030095	BOOSTERS
+02030096	Achat en cours...
+02030097	Appuyez sur OK lorsque vous aurez terminé votre achat.
+
+
+
+# -----------------------------
+# 0204xxxx Friends menu
+# -----------------------------
+# 020400-xx - New Hope - common, dialogs (or temporary strings)
+02040001	Vous trouverez ici la nouvelle présentatio du logo NEW HOPE
+02040002	PRÉCÉDENT
+02040003	SUIVANT
+02040004	MEILLEUR
+02040005	CHOISSISEZ L'AMI
+02040006	SAISIR NOM D'UTILISATEUR ET MESSAGE
+02040007	OK
+02040008	NOM D'UTILISATEUR
+02040009	ANNULER
+02040010	----
+
+# -------------------------------
+# Authentication dialog and retrieving player data from cloud.
+# -------------------------------
+
+02040011	Authentification en cours...
+02040012	Extraction des données du joueur...
+02040013	Authentification échoué
+02040014	Authentification réussi
+02040015	Mise à jour des achats en cours...
+02040016	Authentification
+02040017	Veuillez patienter...
+02040018	Création de compte en cours...
+
+# -------------------------------
+# 020401-xx - Main screen
+# -------------------------------
+
+02040101	AMIS
+02040102	RÉALISATIONS
+02040103	STATISTIQUES
+02040104	PARAMÈTRES DU COMPTE
+02040105	CONNEXION
+02040106	TWITTER
+02040107	FACEBOOK
+02040108	HORS LIGNE
+02040109	EN LIGNE
+02040110	AUTHENTIFIÉ
+02040111	NEW HOPE
+02040112	SAUVEGARDE
+02040113	JEU
+02040114	BOUTIQUE
+02040115	ÉQUIPER
+
+# -------------------------------
+# 020402-xx - Friends screen
+# -------------------------------
+
+02040201	AMIS
+02040202	ACTIF
+02040203	EN SUSPENS
+02040204	AJOUTER UN AMI
+02040205	----
+02040206	OUI
+02040207	NON
+02040208	----
+02040209	----
+02040210	NOM D'UTILISATEUR/MESSAGE
+02040211	PSEUDO/NOM D’UTILISATEUR
+02040212	RANG
+02040213	MISSIONS
+02040214	EN LIGNE
+02040215	STATUT
+02040216	----
+02040217	----
+02040218	Voulez-vous ajouter l'utilisateur comme ami ?
+02040219	demande d'amitié en attente d'approbation
+02040220	----
+02040221	S.O.
+02040222	MAINTENANT
+02040223	AUJOURD'HUI
+02040224	HIER
+02040225	IL Y A {0} {1}
+02040226	MIN
+02040227	HEURES
+02040228	JOURS
+02040229	SEMAINES
+02040230	MOIS
+02040231	AMIS ACTIFS
+02040232	SUPPRIMER
+02040233	AJOUTÉ
+02040234	SUPPRIMER AMI
+02040235	Vous êtes sur le point de supprimer {0} \n de votre liste d'amis. \n Êtes-vous sûr ?
+02040236	Salut. Je voudrais vous ajouter comme ami. {0}
+02040237	JOUER
+02040238	SE CACHER
+02040239	AJOUTER UN AMI À PARTIR DU NOM D'UTILISATEUR
+02040241	HEURE
+02040242	MIN
+02040243	CHAT
+02040244	DEMAIN
+# BEGIN: do not change order or IDs of following texts
+02040245	DIMANCHE
+02040246	LUNDI
+02040247	MARDI
+02040248	MERCREDI
+02040249	JEUDI
+02040250	VENDREDI
+02040251	SAMEDI
+# END: do not change order or IDs of preceding texts
+02040252	AJOUTER DES AMIS FACEBOOK
+02040253	Amis ajoutés: {0}
+
+# -------------------------------
+# 020403-xx - Statistics
+# -------------------------------
+
+02040301	STATISTIQUES
+02040302	----
+02040303	----
+02040304	----
+02040305	----
+02040306	----
+02040307	----
+02040308	----
+02040309	----
+02040310	----
+02040311	Expérience
+02040312	Argent total
+02040313	Meurtres
+02040314	Morts
+02040315	Missions jouées
+02040316	Missions réussies
+02040317	Carnage
+02040318	Quantité totale d'ors
+02040319	Photos
+02040320	Membres
+02040321	Temps de jeu
+02040322	<ARENE_1_NOM> score élevé
+02040323	<ARENE_1_NOM> temps de jeu
+02040324	<ARENE_1_NOM> joué
+
+# -------------------------------
+# 020405-xx - Register screen
+# -------------------------------
+
+02040501	CRÉER UN NOUVEAU COMPTE
+02040502	*
+02040503	* NOM DE L'UTILISATEUR (de {0} à {1} caractère)
+02040504	* MOT DE PASSE (au moins {0} caractère)
+02040505	* CONFIRMEZ LE MOT DE PASSE
+02040506	* ADRESSE E-MAIL
+02040507	----
+02040508	----
+02040509	----
+02040510	J'APPROUVE LES MODALITÉS ET CONDITIONS DE L'ACCORD DE LICENCE ÉLECTRONIQUE
+02040511	JE VEUX RECEVOIR DES INFORMATIONS DE MADFINGER
+02040512	LES CHAMPS PORTANT UNE * SONT OBLIGATOIRES
+02040513	CRÉER UN COMPTE
+02040514	CHAQUE NOUVEL UTILISATEUR RECEVRA UN BONUS
+02040515	----
+02040516	----
+02040517	Impossible de se connecter au serveur !
+02040518	Ce nom de compte est déjà utilisé !
+02040519	Pseudonyme très court !
+02040520	Les mots de passe ne correspondent pas !
+02040521	L'adresse e-mail n'est pas dans un format valide !
+02040522	Mot de passe très court.
+02040523	Nom de compte non valide. \n Veuillez utiliser des caractères alphanumériques uniquement !
+02040524	E-MAIL VALIDE
+02040525	NOM D'UTILISATEUR
+02040526	RESAISIR LE MOT DE PASSE
+
+# -------------------------------
+# 020406-xx - LeaderBoards screen
+# -------------------------------
+
+02040601	APPERÇU
+02040602	JOUR
+02040603	SEMAINE
+02040604	AMIS
+02040605	----
+02040606	----
+02040607	----
+02040608	----
+02040609	----
+02040610	----
+02040611	ORDRE
+02040612	NOM
+02040613	SCORE
+02040614	Récupération du tableau de leaders...
+02040615	Impossible de récupérer les données du tableau de leader !
+
+
+
+
+# -----------------------------
+# 0205xxxx Equip
+# -----------------------------
+02050001	ÉQUIPER
+02050002	DÉMUNIR
+02050003	FERMEZ
+02050004	ARMES
+02050005	ARTICLES
+
+02050008	- VIDE -
+
+02050010	STATISTIQUES DES ARMES
+02050011	FEU
+02050012	COUPS
+02050013	MEURTRES
+
+02050020	STATISTIQUES DES ARTICLES
+02050021	UTILISÉ
+02050022	MEURTRES
+02050023	HÉRO ÉQUIPÉ
+02050024	SANTÉ\nLVL
+02050025	MUNITION\nLVL
+02050026	RADAR\nLVL
+02050027	+25
+02050028	%
+02050029	yrd
+02050030	8
+02050031	100
+02050032	ACTIVER
+02050033	DÉSACTIVER
+02050034	TROUSSE MÉDICALE
+02050035	ACHETER
+02050036	- VIDE -
+02050037	EN ATTENTE...
+02050038	SÉLECTIONNEZ
+02050039	CHAPEAU
+02050040	BOUTON
+02050041	Patientez, les fonds sont en cours de chargement...
+02050042	REMPLACER
+02050043	AVANTAGES
+02050044	PEAU
+02050045	COMPTE PREMIUM
+02050046	COMPTE
+02050047	UNIQUEMENT
+02050048	PREMIUM
+
+
+
+
+# -----------------------------
+# 0206		Shop Weapons
+# -----------------------------
+
+00206000	VEGA
+00206001	C'est un magnifique fusil d'assaut qui peut tuer de près ou de loin. Sa faible cadence est compensée par sa très bonne précision. Ce qui fait de Vega un compagnion très sympathique pour toutes les occasions.
+00206002	ATILLA
+00206003	C'est un fusil d'assault de pointe sorti directement des ateliers de Morduk Armory. Il possède un très gand manche grâce à sa forme robuste en fer qui constitue un grand apport dans la réduction du recul, ainsi que la santé des énemis depuis de longues distances.
+00206004	SHREDDER
+00206005	C'est un fusil d'assaut moderne bien adapté aux sols accidentés. Il est fabriqué à base de polymères durables qui lui confèrent la qualité d'une arme flexible et légère adaptée à vos déplacements légers.
+00206006	SH*TSTORM
+00206007	Même le diable n'en reviendrait pas sur la capacité de cette arme... Sh*tstorm dépasse toutes les normes. Un missile anti personnel devrait-il avoir 50 lbs de TVD ? Sh*tstorm en possède 340 lb ! Un missile devrait-il avoir une munition incendiaire ou à fragmentation ? Pourquoi pas les deux en même temps ! Sh*tstorm vous offre une garantie... une garantie de mort...
+00206008	BIG BOY
+00206009	Big Boy est synonyme de Big Fun. Ce monstre lourd en fer connait très certainement comment produire un bruit : feu, fumée et...morts. Si vous tombez face à cette arme sur un champ de battaille, n'essayer même pas de fuir, vous finirez tout simplement par creuver de fatigue...
+00206010	AGONY
+00206011	C'est la seule arme du catalogue Napalm-Med. C'est une mitrailleuse fabriquée à partir des modèles des temps lointains qui vous offre ce que vous attendez d'une arme médiévale... Elle est dotée d'un chargeur-tambour, des composants d'acier et d'un canon aussi grand qu'un Tyranosaure. Il ne vous reste plus qu'à ajouter une petite histoire mortelle...
+00206012	WARMONGER
+00206013	Il s'agit d'un véritable appareil à effet de sol parmi les armes militaires. Les affiches portant le logo de Warmonger sont responsables d'engager plus de recrues que le magazine Playboy avec President Sheyla Rancock. Cette mitrailleuse multitubes à cadence de grêle est semblable à un conte de fées : Il était une fois une montagne... une montagne de corps...
+00206014	SPATE
+00206015	C'est un canon énergétique expérimental capable de déclencher une salve continue de plasma. Son atout majeur est qu'il ne nécessite pas de recharge, contrairement aux armes conventionnelles. Disons juste que le contact du plasma avec de la chair humaine est une chose que tout le monde doit au moins voir (et sentir) une fois...
+00206016	BARRAGE
+00206017	Un autre membre de la famille des producteurs de plasme. Ce canon à plasma est doté d'une substance rare qui augmente complètement la température de chaque tir. Il ne fait pas dans la médiocrité, désolé... Avec Barrage c'est du bien fait ou du carbonisé !
+00206018	MACE
+00206019	C'est un fusil de chasse. L'une des rares armes avec laquelle tu peux tirer les yeux fermés pour ensuite avoir le plaisir de te retrouver avec du sang jusqu'aux poignets comme du ketchup. Mace a pris la deuxième place dans les votes en ligne à titre d'arme la plus dangereuse (juste derrière la destructrice arme nucléaire) du système Koolian.
+00206020	DOOMHAMMER
+00206021	C'est le marteau de Thors des mitrailleuses. Atteignez votre cible avec la charge des deux canons et regardez-la se transformer en un bain de sang. La Doomhammer peut également être utilisée pour percer le blindage des véhicules légèrement blindés.
+00206022	BANDIT
+00206023	La mitrailleuse Bandit n'a plus besoin d'être présentée. C'est un accessoire compact que les forces spéciales Space préfèrent particulièrement. Tous ceux qui ont déjà eu à utiliser Bandit lors d'un combat rapproché le confirmeront : C'est comme provoquer un guêpier et courrir se réfugier derrière les escaliers...
+00206024	MARAUDER
+00206025	Son nom dévoile à juste titre la caractère de cette bête agile. C'est une arme extrêmement légère, mais très efficace et mortelle. Lorsqu'elle est utilisée, elle produit un bruit semblable au son des hits classiques tels que « Retrouve-moi dans du sang et je meurs à nouveau. » C'est le bon choix pour des raids rapides...
+00206026	OSOG
+00206027	Cachez-vous, patientez, ciblez l'objectif et...la fonction des fusils à lunette est de créer le vide tel un trou dans la tête. OSOG possède toutes les qualités dont vous avez besoin à savoir la précision, la pénétration et une longue portée vers l'enfer. C'est l'idéal pour des combats ouverts. Toutefois, n'oubliez pas de vous éloignez des autres lorsque vous utilisez cette petite merveille.
+00206028	SURGEON
+00206029	L'on pourrait croire qu'il sagit d'un instrument chirurgical. Précision mécanique, ultrazoom et mortellement efficace, sont les particularités du Surgeon. Appréciée pour son côté modifiable, c'est le joujou des tireurs à gage professionnel et des élites des forces spéciales. Lorsque vos amis commence à se dispersser, votre arme antisociale Surgeon menace à distance.
+00206030	SH*TSTORM II
+00206031	Terrifié après la lecture des différentes spécifications du Sh*tstorm II version améliorée, le Diable a lui-même pris ses jambes à son cou. Les chercheurs y ont apporté des avantages notables à partir de la version précédente de ce lance-roquettes et y ont également apporté une nouvelle touche d'amélioration. Ca fait un bail mec !
+00206032	VIOLATOR
+00206033	Un générateur électrique contenue dans une arme qui a la taille d'un fusil ? Oui, c'est le Violator - idéal pour les lignes de front, j'espère que vous ne m'en voudrez si le rugissement du générateur noie les cris de tes ennemis expirants.
+00206034	REDEEMER
+00206035	Prosternez-vous, pécheurs ! Un nouveau produit des laboratoires de Wee-Ponn industries ... Quelles que soient les âmes de vos ennemis : pur, déchus ou errants, Redeemer offre le salut à tous, sans exception!
+00206036	FLUSAKOV
+00206037	Pourquoi développer de nouvelles technologies lorsque nous pouvons utiliser celles éprouvées et confirmées ? Flusakov est un pistolet-mitrailleur de la dernière guerre mondiale et surtout pour ceux qui l'ont gagnée ...
+00206038	SMASHER
+00206039	Voulez-vous voir les restes d'un homme qui a été exécuté par une déchiqueteuse à bois ? Essayez ce fusil de trois baril. Chaque tir est en faveur de celui qui brandit Smasher dans ses pattes sanglantes.
+00206040	ANNIHILATOR
+00206041	Annihilator est un fusil pour un tireur d'élite de première classe. La seule chose qui peut réduire ses mille pour cent de précision est le tireur ...
+
+#		Team names
+00400000	Mutants
+00400001	Shadowguns
+
+# -----------------------------
+# 0207		Shop Items
+# -----------------------------
+
+00207000	MEDIKIT Mk1
+00207001	Même un vétéran peut s'égratigner le genou au cours de l'action. Cette trousse médicale adaptée à ces situations très difficiles vous remettra sur pied (ainsi que les membres de votre équipe !). Maintenant disponible en effluve fraîche au menthol !
+00207002	MEDIKIT Mk2
+00207003	Même un vétéran peut s'égratigner le genou au cours de l'action. Cette trousse médicale adaptée à ces situations très difficiles vous remettra sur pied (ainsi que les membres de votre équipe !). Maintenant disponible en effluve fraîche au menthol !
+00207004	---MEDIKIT Mk3
+00207005	Même un vétéran peut s'égratigner le genou au cours de l'action. Cette trousse médicale adaptée à ces situations très difficiles vous remettra sur pied (ainsi que les membres de votre équipe !). Maintenant disponible en effluve fraîche au menthol !
+00207006	---BlastShieldMk1
+00207007	---Présentation de BlastShieldMk1
+00207008	---BlastShieldMk1
+00207009	---Présentation de BlastShieldMk2
+00207010	---BlastShieldMk3
+00207011	---Présentation de BlastShieldMk3
+00207012	FLASHBANG Mk1
+00207013	C'est une grenade tactique qui aveugle toute personne se trouvant dans son périmètre par une magnifique explosion. Un flux compressé de lumière pure pénètre les implants occulaires et les équipements de protection. Vos énemis croiront à l'arrivée des secours, mais ils se trompent...
+00207014	---FLASHBANG Mk2
+00207015	---Présentation de FLASHBANG Mk2
+00207016	---FLASHBANG Mk3<
+00207017	---Présentation de FLASHBANG Mk3<
+00207018	GRENADE MK1
+00207019	Toutes les troupes cosmiques ou de l'espace savent que les grenades fragmentées sont marrantes. Non seulement vous pouvez vous en servir pour jouer au Frisbee en temps d'arrêt entre les combats, mais aussi elles sont appropriées pour nettoyer les pièces, les trous et éliminer les campeurs.
+00207020	GRENADE Mk2
+00207021	Toutes les troupes cosmiques ou de l'espace savent que les grenades fragmentées sont marrantes. Non seulement vous pouvez vous en servir pour jouer au Frisbee en temps d'arrêt entre les combats, mais aussi elles sont appropriées pour nettoyer les pièces, les trous et éliminer les campeurs.
+00207022	---GRENADE Mk3
+00207023	Toutes les troupes cosmiques ou de l'espace savent que les grenades fragmentées sont marrantes. Non seulement vous pouvez vous en servir pour jouer au Frisbee en temps d'arrêt entre les combats, mais aussi elles sont appropriées pour nettoyer les pièces, les trous et éliminer les campeurs.
+00207024	JAMMER Mk1
+00207025	Les gangs maraudeurs de l'espace ont mis sur pieds ce dispositif pour détruire le matériel de communication et de détection des forces de sécurité, afin qu'ils puissent effectuer leurs sales boulots de façon inaperçue. Sa fonction de base désactive les capacités de tout détecteur environnant.
+00207026	---JammerMk2
+00207027	---Présentation de JammerMk2
+00207028	---JammerMk3
+00207029	---Présentation de JammerMk3
+00207030	DETECTEUR Mk1
+00207031	C'est un magnifique jouet de haute technologie qui utilise un radar pour détecter la position des énemis et des mines. Un outil indispensable pour ceux qui n'aiment pas les surprises...
+00207032	DETECTEUR Mk2
+00207033	C'est un jouet de très haute technologie qui affiche la position des énemis et des mines sur le radar. Un outil indispensable pour tous les technophiles.
+00207034	---DetecteurMk3
+00207035	---Présentation du DetecteurMk3
+00207036	MINE Mk1
+00207037	Un cadeau pour tous les amoureux d'assassinats et de stratégies de trouillard. Les statistiques des Forces spatiales indiquent que 4 soldats sur 5 ne font pas suffisamment attention où ils marchent. Boum ! Ce luxueux modèle de mine prend une photo des visages des victimes 3 secondes avant la détonation... (UNIQUEMENT POUR ZONE CONTROL !)
+00207038	MINE EMP Mk1
+00207039	Présentation de la MINE EMP Mk1
+00207040	MINE EMP Mk2
+00207041	Présentation de la MINE EMP Mk2
+00207042	Spider Mk1
+00207043	Présentation du Spider Mk1
+00207044	Spider EMP Mk1
+00207045	Présentation du Spider EMP Mk1
+00207046	Spider EMP Mk2
+00207047	Présentation du Spider EMP Mk2
+00207048	SENTRY Mk1
+00207049	L'arme Sentry est une arme automatique qui, une fois activée, recherche automatiquement les cibles ennemis et leur décharge des tonnes de balles. (UNIQUEMENT POUR LE CONTRÔLE DE LA ZONE !) Les sentinelles sont vulnérables au Plasma et EMP.
+00207050	SENTRY Mk2
+00207051	L'arme Sentry est une arme automatique qui, une fois activée, recherche automatiquement les cibles ennemis et leur décharge des tonnes de balles. (UNIQUEMENT POUR LE CONTRÔLE DE LA ZONE !) Les sentinelles sont vulnérables au Plasma et EMP.
+00207052	PLASMA SENTRY
+00207053	C'est une variante de la mitrailleuse de défense de la tour. Elle est équipée d'un canon plasma qui projette de grandes particules d'énergie sur tous ceux qui osent s'en approcher. Les sentinelles sont vulnérables au Plasma et EMP.
+00207054	---SPRINT Mk1
+00207055	---Présentation du SPRINT Mk1
+00207056	---SPRINT Mk2
+00207057	---Présentation du SPRINT Mk2
+00207058	---SPRINT Mk3
+00207059	---Présentation du SPRINT Mk3
+00207060	KIT DE MUNITIONS Mk1
+00207061	Une arme vide est presque qu'aussi inutile qu'un sous-marin dans le désert. Cette boîte supplémentaire de munitions vous approvisionnera vous et votre équipe d'une quantité considérable de munitions.
+00207062	KIT DE MUNITIONS Mk2
+00207063	Une arme vide est presque qu'aussi inutile qu'un sous-marin dans le désert. Cette boîte supplémentaire de munitions vous approvisionnera vous et votre équipe d'une quantité considérable de munitions.
+00207064	KIT DE MUNITIONS Mk3
+00207065	Une arme vide est presque qu'aussi inutile qu'un sous-marin dans le désert. Cette boîte supplémentaire de munitions vous approvisionnera vous et votre équipe d'une quantité considérable de munitions.
+00207066	GRENADE EMP Mk1
+00207067	Détruisez les sentinelles, les mines et brouillez les radars de l'ennemis.
+00207068	GRENADE EMP Mk2
+00207069	Détruisez les sentinelles, les mines et brouillez les radars de l'ennemis.
+00207070	FUSÉE SENTINELLE
+00207071	Il s'agit d'une autre variante de la mitrailleuse de défense de la tour. Celle-ci est équipée d'un lance-roquette qui sert également d'usine de rôti de bœuf. Les sentinelles sont vulnérables au Plasma et EMP.
+00207072	Augmentez la vitesse
+00207073	La vitesse est ce dont vous avez besoin et si vous ne l'avez pas, vous êtes foutu ...Chez DeadZone, cela est deux fois vrai. Augmentez votre vitesse et laissez vos ennemis mourir lentement dans la poussière.
+00207074	Augmentez les dégâts
+00207075	Vous ne gagnerez pas un combat si vous tuer cinq ennemis ? Mais si vous tuez 50 ? Augmentation de dégâts est la racine de tous les combats victorieux.
+00207076	Augmentez l'armure
+00207077	Vous mourez beacoup ?  Obtenez un peu de ce fortifiant pour votre armure et frayez votre chemin vers la victoire !
+00207078	Augmentez la précision
+00207079	Tirez comme grand-mère avec des hoquets ? Vous avez besoin de précision... Si vous manquez de précision, ce booster est juste ce qu’il vous faut !
+00207080	Augmentez l'invisibilité
+00207081	Ce détonateur vous rendra invisible. \n Invisible, invincible... Humm, ces mots ont la même resonance, eh ? Allez-y et engagez-vous sur votre chemin de la domination !
+
+
+# -----------------------------
+# 0208		Shop Hats
+# -----------------------------
+
+00208000	CYLINDRE
+00208001	Qui ne voudrait pas tuer avec un air de noblesse ? Avec ce super chapeau vous pouvez allez au combat ou à un bal royal (attention ! ne marchez sur aucune orteille...roquette à portée acrue, mines)
+00208002	FOOTBALL
+00208003	Tout abruti qui joue au football vous dira qu'il est préférable de porter un casque. Parce que l'entraineur l'a ordonné !
+00208004	HALLOWEEN
+00208005	Les citrouilles se portent bien et alors... ils vous vont bien sur la tête et pas seulement le jour d'Halloween. Cette citrouille est certifiée de qualité bio.
+00208006	JAPON
+00208007	Konnichiwa ! Sautez sur un bol de riz, mangez des sushis, et victoire, allez vous battre !
+00208008	CHAMPIGNON
+00208009	Un champignon... après l'avoir mis sur votre tête, eh bien, vous en devenez un...
+00208010	PIRATE
+00208011	Arghh mon ami !
+00208012	VIKING
+00208013	Une paire de cornes est un excellent atout dans ce genre de situation très difficile. Vos amis peuvent vous utiliser comme un bélier !
+00208014	AFRO
+00208015	C'est l'époque rétro ! Les couleurs, la musique, l'amour, la bannière étoilée jouaient de la guitare avec vos dents... Méfiez-vous juste des plafonds bas !
+00208016	ASTRO
+00208017	Un casque pour tous ceux qui ont rêvé de devenir astronaute. L'antenne latérale permet de capter deux chaines radios indépendantes, ou des instructions provenant du contrôle sol ou de votre femme.
+00208018	CALOTTE
+00208019	Les rayons plasma vous-ont-ils brûlé les cheveux et exposé votre tête au froid ? Entrez en possession de cette calotte et mettez-la avec des patineuses et la bande de chanteurs de pop.
+00208020	ANNIVERSAIRE
+00208021	Venez fêter ! Voulez-vous des sucreries, des gags hilarants et beaucoup de plaisirs pour tout le monde... ou, des fusils de chasse, des grenades et des corps criblés de balles ?
+00208022	CASQUES
+00208023	S'agit-il dun DJ devenu furieux ou d'un travailleur mécontent qui veut se venger ? Ils produisent un magnifique son qui détruit les capacités. C'est un outil essentiel pour la mitrailleuse...
+00208024	HUSITA
+00208025	C'est historique, vous ne pouvez pas comprendre...
+00208026	INDIEN
+00208027	Devenez le chef de la tribu. Parlez avec les esprits de vos ancêtres. Volez comme un oiseau et marchez comme un buffle.
+00208028	CASSEROLE
+00208029	Augmentez leur la chaleur !
+00208030	ETUDIANT
+00208031	Très peu de troupes ont pris part à la cérémonie de remise de diplôme, ou même fréquenté une école. Avec ce chapeau vous pouvez rattrapper toutes ces classes perdues !
+00208032	SANGLIER
+00208033	Les concepteurs n'ont pas réussi à atteindre l'objectif initial, à savoir effrayer l'énemi à mort juste en regardant la face du casque. Toutefois, vous pouvez au moins attirer quelques sangliers !
+00208034	CALOTTE
+00208035	Les crânes sont tout simplement cool. Si vous en portez un sur le visage, eh bien vous ressemblerez à un renégat, même si vous êtes une gentille petite vielle dame.
+00208036	PILOTE
+00208037	Certitude de voler dans des endroits où la qualité de l'air n'est pas bonne, comme les bureaux de jeux MADFINGER...
+00208038	GUERRIER
+00208039	Spéciallement conçu pour les personnes de nature faible et effrayante et les gourou de la mode...
+00208040	ARAIGNEE
+00208041	Marchez comme une araignée, voyez comme une araignée...
+00208042	SHRAPNEL
+00208043	C'est un casque solide conçu spécialement pour les actions de première ligne. Explosions, balles, fumée ? Avec Shrapnel, vous êtes en sécurité.
+00208044	SHINOBI
+00208045	C'est un casque de haute technologie utilisé pour des opérations d'espionage. Il est fabriqué à partir de matérieaux expérimentaux légers et équipé d'une optique ETS avancée.
+00208046	MADFINGER
+00208047	Chapeau spécial pour les concepteurs de MADFINGER.
+00208048	REMARQUE : Cet article vous protégera \n des tirs à la tête.
+
+
+# -----------------------------
+# 0209		Shop Skins
+# -----------------------------
+
+00209000	SLADE
+00209001	Un ancien marin de la fédération John Slade avait pris sa retraite suite aux blessures subies lors de l'attentat sur la planète Nodd. John serait devenu un Shadowgun vers 2340 et sa réputation s'est très vite répandue. Sa riche expérience du combat, ses prouesses techniques et son intelligence aiguë ont fait de lui l'un des Shadowguns les plus récompenssés de la galaxie.
+00209002	MUTANT
+00209003	C'est « l'équipe de travail » de la planète Ève, créée et utilisée par le Dr. Edgar Simon pour extraire le matériel radioactif. Elle était le premier résultat réussi des modifications génétiques du grade militaire du Dr. Simon, basées sur les formes de vie préexistantes (les habitants natifs de la planète Ève). Elle est totalement immunisée contre la radiation.
+#00209004	- not USED
+#00209005	- not USED
+00209006	PHASER
+00209007	Présentation du PHASER
+00209008	SOLDAT
+00209009	Jean Luc De Mayer a rejoint la légion Sheard à l'âge de 16 ans, grâce aux fausses pièces d'identification. C'est le seul survivant de l'horrible massacre qui a eu lieu dans la nébuleuse Crab, où son unité avait été déployée pour une mission suicide. Après son retour, il tua son commandant et quitta la légion. Il s'est installé aujourd'hui à son compte sous une nouvelle identité.
+00209010	DANSEUR
+00209011	C'est l'un des premiers modèles reproduit chez Toltech. Les séries Concubine avaient été conçues pour le plaisir de l'équipe et des colons. Les modifications du logiciel et l'ajout de plusieurs aptitudes militaires ont marqué la création d'un nouveau modèle conçu pour l'infiltration et la destruction. Insidieusement séducteur et dangereusement mortel - Danseur.
+00209012	ASSASSIN
+00209013	Zach Remedy est un rebelle de la grande cité. Il a grandi dans les ghettos de Badlem et a rejoint à l'âge de 14 ans un gang local de la rue appelé « Break Bones ». Zach a perdu ses deux bras lorsqu'il retenait certaines portes de secours pour sauver ses compagnons. Dès lors, il a subi une opération pour recevoir une paire de prothèse des bras de cyborg. Aujourd'hui, Zach travaille en tant que tueur à gage pour toute personne désireuse de se payer ses services.
+00209014	BÊTE
+00209015	Les pirates bahriniens sont redoutés dans toute la galaxie pour leur brutalité et leur caractère impitoyable. Ils sont particulièrment doués dans le détournement des vaisseaux commerciaux. Besat avait été capturé grâce à une intervention militaire lors de l'opération de sauvetage du convoi de Toltech. Après s'être enfui des établissement correctionnels de Blava, il a travaillé comme garde du corps.
+00209016	S.A.R.A.
+00209017	Sentient Android Registered Assistant. C'est le premier modèle qui contient le « Genesis Chip » de cinquième génération de la société Althar Inc. Elle avait été déclassée du statut de la Fédération en 2335 et est entrée dans le secteur privé. John Slade a immédiatement racheté ses services.
+00209018	SHERIFF
+00209019	Sheriff Moregun, le plus vieux chérif en fonction de toute la galaxie. Pendant son service, il a si souvent été blessé que chaque partie de son corps a été remplacée par opération (enfin, excepté deux...) Vous pouvez compter sur lui pour posez la question : Vous-sentez-vous chanceux, l'ami ?
+00209020	R.A.T.S.
+00209021	Scientifique tactique avancé renforcé. Cette division spéciale de la société Toltech est utilisée partout où le besoin d'un soutien scientifique et d'un soutien au combat s'impose. Elle est hautement formée en biorecherche et en tactiques basées sur l'escouade.
+00209022	WIDOW
+00209023	Widow est une tueuse d'élite, habile, précise et mortelle. Nous ne savons pas exactement d'où lui vient ce pseudonyme. Il n'existe aucun homme dans toute la galaxie qui puisse la demander en mariage. Sa seule passion se trouve dans l'incandescence de son canon de mitrailleuse lourd.
+
+
+
+# -----------------------------
+# 0210		Shop Upgrades
+# -----------------------------
+
+00210000	AMMOHOLSTERS
+00210001	Il s'agit de l'amélioration du système d'armes qui vous permet de porter plus de munitions.
+00210002	FENTE D'ARTICLE 1
+00210003	Amélioration du système d’armes : Ajoute une fente d’article supplémentaire à l’équipe.
+00210004	FENTE D'ARTICLE 2
+00210005	Amélioration du système d’armes : Ajoute une fente d’article supplémentaire à l’équipe.
+00210006	Sac d'explosifs
+00210007	L'extension du système d'armes qui permet de porter un ou plusieurs explosifs (aussi bien les grenades que les mines).
+#0210008	Explosive Pouch
+#0210009	Explosive Pouch Description
+00210010	FENTE D'ARME 1
+00210011	Amélioration du système d’armes : Ajoute une fente d’arme supplémentaire à l’équipe.
+00210012	FENTE D'ARME 2
+00210013	Amélioration du système d’armes : Ajoute une fente d’arme supplémentaire à l’équipe.
+00210014	AMMOHOLSTERS
+00210015	Il s'agit de l'amélioration du système d'armes qui vous permet de porter plus de munitions.
+00210016	DAMG : \n ACCU : \n MUNITIONS :
+00210017	150 \n 50% \n 50/150
+
+# -----------------------------
+# 0211		Shop Funds
+# -----------------------------
+00211000	%i1 OR
+00211002	%i1 ARGENT
+00211003	L'argent est la monnaie courante du commerce dans le monde de Shadowgun. Vous pouvez le dépenser pour chercher de nouveaux articles, des armes et des mises à niveau. Vous gagnez de l'argent en jouant à SHADOWGUN : DEADZONE.
+00211020	Offres gratuites d'ors
+00211021	Pas de carte de crédit ? Pas de cash ? \nPas de panique ! Il existe d'autres moyens faciles d'obtenir de l'or. \nConsultez vos offres gratuites d'ors !
+00211022	Plus d'offres
+00211023	Besoin de plus d'ORS ? \nAllez sur le site Tapjoy.com ! \nInscrivez-vous simplement et découvrez une variété inimaginable d'offres GRATUITES D'ORS !
+00211024	Encore plus d'offres
+00211025	Toujours pas suffisamment d'ORS ? \nPas besoin d'y dépenser de l'argent réelle ! \nEssayez les offres spéciales qui vous apportent de l'OR GRATUITEMENT !
+00211026	Offres du sponsor
+00211027	Vous n'avez pas encore vérifié ces offres D'ORS GRATUITS ? \nFaites-le maintenant ! \nRien de plus facile que de bénéficier de l'OR sans dépenser un seul dollar !
+00211028	Besoin de plus d'ORS ? \nAllez sur le site Tapjoy.com !
+00211029	Toujours pas suffisant ? \nEssayez d'autres offres
+00211030	Essayez les offres spéciales qui vous apportent de l'OR GRATUITEMENT !
+00211031	CONSULTEZ NOS OFFRES !
+
+#zadr
+00211032	C'EST PARTI !
+00211033	Gagnez de l'or GRATUIT* sur Tapjoy.com !
+00211034	*Adhésion à Tapjoy.com requise
+
+00211050	5 JETONS
+
+
+
+# -----------------------------
+# 0212		Perks
+# -----------------------------
+00212000	+SANTÉ/VIE 1
+00212001	Augmente la santé générale @1 pourcent
+00212010	+SANTÉ/VIE 2
+00212011	Augmente la santé générale @1 pourcent
+00212020	SPRINT 1
+00212021	Active le sprint - vitesse normale augmentée @1 pourcent pour @2 secondes.
+00212030	SPRINT 2
+00212031	Sprint plus rapide - vitesse normale augmentée @1 pourcent pendant @2 secondes.
+00212040	SPRINT 3
+00212041	Sprint hyper rapide - vitesse normale augmentée @1 pourcent pendant @2 secondes.
+00212050	COURSE 1
+00212051	Augmente constamment la vitesse du mouvement @1 pourcent
+00212060	COURSE 2
+00212061	Augmente constamment la vitesse du mouvement @1 pourcent
+00212070	FLAKJACKET 1
+00212071	Réduit les dégâts causés par les explosions @1 pourcent
+00212080	FLAKJACKET 2
+00212081	Réduit les dégâts causés par les explosions @1 pourcent
+
+
+# -----------------------------
+# 0213		Tech
+# -----------------------------
+00213000	Nanotechnologie
+00213001	Présentation de Nanotechnologie
+00213010	Matériels de pointe
+00213011	Présentation du matériel Adv
+#0213020		Aerodynamics
+#0213021		Aerodynamics Description
+#0213030		AdvWeaponParts
+#0213031		AdvWeaponParts Description
+00213040	Armure Adv
+00213041	Présentation de l'armur Adv
+00213050	AdvBody
+00213051	Présentation d'AdvBody
+00213060	AdvBodyII
+00213061	Présentation d'AdvBodyII
+00213070	AdvHealing
+00213071	Présentation d'AdvHealing
+00213080	ExtraHealth
+00213081	Présentation d'ExtraHealth
+00213090	AdvSensors
+00213091	Présentation d'AdvSensors
+00213100	Autoguide
+00213101	Présentation d'Autoguide
+00213110	Jamming
+00213111	Présentation de Jamming
+00213120	AdvEnergy
+00213121	Présentation d'AdvEnergy
+00213130	Emp
+00213131	Présentation d'Emp
+00213140	EmpII
+00213141	Présentation d'EmpII
+00213150	AdvExplosives
+00213151	Présentation d'Explosifs Adv
+
+
+# -----------------------------
+# 0214xxx 	Bundles
+# -----------------------------
+00214001	Contient :
+00214002	Vous possédez %i1 de %i2 des articles contenus dans le paquet.
+00214003	et
+00214100	PAQUET D'ESSAI
+00214101	Paquet test.
+00214102	PAQUET DE DÉPART
+00214103	Commencez votre jeu avec un supplément d'argent et un exemplaire de Compte premium pour vous booster !
+00214104	PAQUET MÉDECIN
+00214105	Tout ce dont les médecins ont besoin ! Est accompagné d'un supplément d'argent et d'un exemplaire de Compte premium !
+00214106	PAQUET ASSAUT
+00214107	Préparez-vous au combat avec le fusil d'assaut, des munitions supplémentaires et un exemplaire de Compte premium !
+00214108	PAQUET SNIPER
+00214109	Conçu pour les snipers ! Un fusil sniper précis, des mines pratiques pour faire diversion et un exemplaire de Compte premium !
+00214110	PAQUET LOURD
+00214111	Provoquez le chaos sur le champ de bataille avec la grosse mitrailleuse et la tourelle de sentinelle ! Est accompagné d'un exemplaire de Compte premium !
+00214112	PAQUET SCOUT
+00214113	Détectez les mines et les ennemis avec ce radar à la pointe de la technologie ! Est accompagné d'un supplément d'argent et d'un exemplaire de Compte premium !
+00214114	PAQUET SHADOWGUN
+00214115	Battez-vous comme Sara et John Slade dans la version originale de SHADOWGUN ! Est accompagné d'une somme d'argent et d'un exemplaire de Compte premium !
+00214116	PAQUET EN OR
+00214117	Obtenez une tenue exclusive de Sheriff Moregun avec un joli cylindre ! Est accompagné d'un supplément d'argent et d'un Compte premium d'un mois !
+
+
+00214200	Premium de {0} heure
+00214201	Premium de {0} heures
+00214202	Premium de {0} jour
+00214203	Premium de {0} jours
+00214204	Premium de {0} semaine
+00214205	Premium de {0} semaines
+00214206	Premium de {0} mois
+00214207	Premium de {0} mois
+
+# -----------------------------
+# 0215xxx 	Boosters
+# -----------------------------
+# - NOT USED - 00215001	Boost Speed
+# - NOT USED - 00215002	Vaši spolubojovníci vám neustále utíkají? Bolí vás už z toho nohy? Vstříkněte si do stehen tento booster, staňte se na chvíli prvotřídním atletem a všem zamávejte hezky zepředu.
+# - NOT USED - 00215003	Boost Damage
+# - NOT USED - 00215004	Znáte to: pořádně se vyzbrojíte do bitvy, abyste posléze zjistily, že protivník se vyzbrojil lépe. Co teď? Pro tyto případy je zde booster nacpaný těmi nejlahodnějšími neurotransmitery, které z vás během chvilky udělají drsnějšího střelce. A lepšího manžela.
+# - NOT USED - 00215005	Boost Armor
+# - NOT USED - 00215006	Vyběhli jste někdy z výsadkového modulu do vřavy a uvědomily si, že jste zapomněly bojovou vestu v šatně? Není všem životům konec - po aplikaci tohoto vzácného séra se začne vaše podkožní vazivo chovat jako tvrdý kámen. V tu chvíli si každá kulka ráda rozmyslí, zda do vás vnikne.
+# - NOT USED - 00215007	Boost Accuracy
+# - NOT USED - 00215008	Vyprázdnily jste už šest zásobníků, a ten bastard tam stále pobíhá a směje se vám? Pak je načase pustit do svého oběhu tento booster vyrobený ze směsi adrenalinu, maté a guarany. Kromě toho, že uslyšíte trávu růst, bude i váš zrak naprosto koncentrovaný na jedinou věc - mířit protivníkovi přímo doprostřed oka.
+# - NOT USED - 00215009	Boost Invisibility
+# - NOT USED - 00215010	Mají na vás všichni spadeno? Jste jako štvaná zvěř? Nebo prostě jen potřebujete být chvíli samy? Aplikujte tento booster a vaše kůže začne odrážet okolí, výsledkem čehož na chvíli prostě zmizíte všem z očí.
+
+
+
+
+# -----------------------------
+# 0290xxxx MENU HARD CODED
+# -----------------------------
+
+02900001	AJOUTER DES FONDS
+02900002	CONVERTIR
+02900003	GAGNER
+02900004	FONDS INSUFFISANTS/
+
+02900014	ACHETER DES FONDS
+02900015	ATTENDEZ ..
+02900016	ACHAT D'APPLICATION ENTRANTE
+02900017	SERVICE NON DISPONIBLE
+
+02900021	MISE À NIVEAU
+02900022	DE
+
+02900030	MANETTE DE JEU MOGA CONNECTÉE
+02900031	MANETTE DE JEU MOGA DÉCONNECTÉE
+02900032	BATTERIE MOGA FAIBLE !  VEUILLEZ RECHARGER...
+02900033	TOUCHEZ DANS LE MENU DE CONTRÔLE
+
+02900050	VOUS AVEZ: %i1
+
+02900051	+%i1
+02900052	DURÉE: %i1 SEC
+02900053	BOOST: +%i1%
+
+
+
+# -------------------------------
+#     0500 - Multiplayer messages
+# -------------------------------
+
+00500000	connectés
+00500001	déconnectés
+00500002	chassé du serveur
+00500010	Vous avez gagné !
+00500011	Vous avez perdu !
+00500012	Commencez un nouveau round...
+00500013	Jeu chargé
+
+
+00500100	tué
+00500101	Vous avez été tué par
+00500102	suicidez-vous
+00500103	par
+
+00500200	Tuer
+00500201	Soutenir le meurtre
+00500202	Zone interdite
+00500203	Zone neutralisée
+00500204	Contrôle de la zone
+00500205	Recharge des munitions
+00500206	Guérison
+00500207	Tourelle détruite
+00500208	Araignée détruite
+00500209	Zone attaquée
+00500210	Récompense en or
+
+00500900	Vous avez atteint
+00500901	RANG
+00500902	Débloqué
+00500903	GAGNER
+00500904	Perdu
+00500920	Exp
+00500921	$
+
+
+
+# -------------------------------
+# 05003xx zone notification in console
+# -------------------------------
+
+00500300	Neutralisé
+00500301	Contrôlé par
+
+# -------------------------------
+# 05004xx zone names
+# -------------------------------
+
+00500400	Ren Zone1
+00500401	Ren Zone2
+00500402	Ren Zone3
+00500403	Ren Zone4
+00500404	Ren Zone5
+
+00500410	Niveau2 Zone1
+00500411	Niveau2 Zone2
+00500412	Niveau2 Zone3
+00500413	Niveau2 Zone4
+00500414	Niveau2 Zone5
+
+00500420	Niveau3 Zone1
+00500421	Niveau3 Zone2
+00500422	Niveau3 Zone3
+00500423	Niveau3 Zone4
+00500424	Niveau3 Zone5
+
+00500480	ZONE A
+00500481	ZONE B
+00500482	ZONE C
+00500483	ZONE D
+00500484	ZONE E
+00500485	ZONE F
+00500486	ZONE G
+00500487	ZONE H
+00500488	ZONE I
+
+
+# -------------------------------
+# 05005xx Map Names
+# -------------------------------
+
+00500500	ASSEMBLÉE
+00500501	NOYAU
+00500502	DIVERSIFICATION
+00500503	INVASION
+00500504	AVANT-POSTE
+00500505	PALACE
+00500506	CONCENTRATEUR D'ALIMENTATION
+00500507	RAFINERIE
+00500508	PORT DES RENÉGATS
+00500509	COQUILLAGE
+00500510	CROQUIS 4 EM
+00500511	GARE DE TRIAGE
+
+
+# -------------------------------
+#     0501 - Ingame Menu
+# -------------------------------
+
+00501000	FIN DU JEU
+00501001	CONTINUER
+00501002	AMIS
+00501003	ASSISTER À
+00501004	OEUF
+00501005	Équipez d'abord d'une arme au moins.
+
+# -------------------------------
+#     0502 - Ingame Stats Deadmatch, Domination, Spectator
+# -------------------------------
+
+00502000	ATTENTE
+00502001	JOUEUR
+00502002	MEURTRES
+00502003	MORTS
+00502004	VOTRE PROIE
+00502005	VOTRE CAUCHEMAR
+00502006	ACQUIS
+00502007	TUÉ PAR
+00502008	FIN DES MATCHS :
+00502009	:
+00502010	STATISTIQUE DU MATCH
+00502011	VOS STATISTIQUES
+00502012	REVENU
+00502013	XP
+00502014	RESTE DE VIES
+00502015	RÉSULTATS FINAUX
+00502016	PROCHAIN MATCH ENTRANT :
+00502017	PROCHAINE VIE ENTRANTE :
+00502018	SUIVRE LE JOUEUR
+00502019	CAM VOLANT
+00502020	ANNULER
+00502021	VOTRE ÉQUIPE
+00502022	ÉQUIPE ENNEMIE
+00502023	VICTOIRE
+00502024	DÉFAITE
+00502025	CARTE
+00502026	MODE
+00502027	POINT DE VIE :
+00502028	DESSINER
+00502029	SCORE
+00502030	CACHER \n HUD
+00502031	MONTRER \n HUD
+00502032	SYS
+00502033	RETOUR
+00502034	SOUMETTRE MON SCORE !
+00502035	VOTRE EQUIPE A GAGNE !
+00502036	VOTRE ÉQUIPE A FAILLI GAGNÉ !
+00502037	ELLE ÉTAIT SI PROCHE !
+00502038	REDOUBLER D'EFFORT LA PROCHAINE FOIS !
+00502039	PLUS D'EFFORT MIEUX PLUS RAPIDE !
+00502040	CONTINUEZ LE COMBAT !
+00502041	ALLEZ AU COMBAT ET REMPORTEZ LA VICTOIRE !
+00502042	TEMPS RESTANT
+00502043	Félicitations !
+00502044	Gagnez
+00502045	des points pour augmenter votre rang.
+00502046	Vous possédez assez de ressources pour obtenir :
+00502048	Vous avez été promu à un rang supérieur !
+00502049	Vous possédez assez de ressources pour obtenir :
+00502050	CONTINUEZ
+00502051	GAINS \n SANS PREMIUM
+00502052	GAINS \n AVEC PREMIUM
+00502053	XP points
+00502054	Argent
+00502055	Meurtres
+00502056	OBTENEZ UN PREMIUM
+00502057	COMPTABILISEZ MAINTENANT
+00502058	VOUS AVEZ BESOIN DE PLUS DE COURAGE !
+00502059	PAS MAL, MAIS INSUFFISANT !
+00502060	VOUS DEVRIEZ VOUS EXERCER PLUS !
+00502061	VOUS AVEZ BESOIN D'UNE NOUVELLE STRATEGIE !
+00502062	PROCHAINEMENT PEUT ÊTRE !
+00502063	VOUS AVEZ BESOIN DE PLUS D'EXERCICES !
+00502064	Vous avez assez de ressources pour avoir un casque. \n Un chapeau vous protège des tirs à la tête.
+00502065	PRÉPAREZ-VOUS POUR
+00502066	LE ROUND SUIVANT !
+00502067	E/S DU CHAT
+00502068	Bonus mission
+00502069	Récompense !
+00502070	Revenez demain et gagnez plus !
+00502071	Vous avez débloqué une nouvelle recherche !
+00502072	BONUS
+00502073	xp {0}
+00502074	$ {0}
+00502075	AUCUN
+00502076	{0} JETONS
+00502077	{0} OR
+00502078	Jouez et obtenez DOUBLE XP \n sur le premier match de la journée !
+00502079	BONUS DU PREMIER MATCH DE LA JOURNÉE
+00502080	TOTAL \n AVEC PREMIUM
+00502081	TOTAL \n SANS PREMIUM
+00502082	RESULTATS DE MISSION
+00502083	BONUS MISSION
+00502084	REÇU
+00502085	BONUS PREMIUM
+00502086	NOUVEAU BONU DE RANG
+00502087	Or
+00502088	FIN DU MATCH
+00502089	VOUS AVEZ GAGNE !
+00502090	VOUS AVEZ GAGNE {0} UNE PLACE !
+00502091	{0}er
+00502092	{0}ème
+00502093	{0}ème
+00502094	{0}ème
+00502095	{0} JETON
+00502096	ACQUÉRIR \n {0} \n L'EXPÉRIENCE
+00502097	JOUER \n {0} LE MATCH
+00502098	JOUER \n {0} LES MATCHS
+00502099	GAGNER \n {0} UN MATCH
+00502100	GAGNER \n {0} DES MATCHS
+00502101	BOÎTE MAGIQUE
+
+
+# -------------------------------
+#     0503 - INGAME HUD
+# -------------------------------
+
+00503000	VOTRE ÉQUIPE
+00503001	Vous avez atteint
+00503002	RANG
+00503003	TEMPS
+00503004	C
+00503005	C
+00503006	Photos
+00503007	-------
+00503008	A cours de munitions
+00503009	Pas de connexion
+00503010	CONNEXION PERDUE
+00503011	Perte de la connexion au serveur. \n Vous serez redirigé au menu principal.
+
+
+# -------------------------------
+#     0504 - HELP SCREEN
+# -------------------------------
+
+00504000	FERMEZ
+00504001	Vous avez atteint
+00504002	RANG 2 !
+00504003	TERMINATOR (US)
+00504004	VOTRE ÉQUIPE
+00504005	MENU INGAME
+00504006	RADAR
+00504007	STATISTIQUES
+00504008	STATISTIQUE DU CONTRÔLE DE LA ZONE
+00504009	SÉLECTIONNEUR D'ARMES
+00504010	ARTICLES
+00504011	ENROULLER
+00504012	RECHARGER
+00504013	SPRINT
+00504014	FEU
+00504015	ZONE DE DÉPLACEMENT
+00504016	Faites glisser la partie gauche de l'écran vers déplacement
+00504017	ZONE DE L'OBJECTIF
+00504018	Faites glisser la partie droite de l'écran vers objectif
+00504019	Commande rapide
+00504020	CONFIGUREZ LE PLAN
+00504021	1. ENTREZ LES OPTIONS / CONTRÔLE / PERSONNALISER LE PLAN
+00504022	2. CONFIGUREZ LES COMMANDES TELLES QU'ELLES VOUS CONVIENNENT LE MIEUX
+00504023	3. N'OUBLIEZ PAS D'AJUSTER LA SENSIBILITE VISANT LES OPTIONS / CONTRÔLES
+00504024	RÉINITIALISEZ LES VALEURS PAR DÉFAUTS
+00504025	ACCEPTEZ LES MODIFICATIONS
+00504026	POUSSEZ LE AU PROCHAIN NIVEAU AVEC
+
+
+# -------------------------------
+#     0505 - SLOT MACHINE
+# -------------------------------
+
+00505000	FAITES TOURNER !
+00505001	FAITES TOURNER ET \nGAGNER DE L'OR !
+00505002	Félicitations !
+00505003	Vous avez gagné {0} pièces d'or !
+00505004	Vous obtenez {0} jeton gratuitement. \n N'oubliez pas de faire tourner la machine à sous aujourd'hui !
+00505005	Vous obtenez {0} jetons gratuitement. \n N'oubliez pas de faire tourner la machine à sous aujourd'hui !
+00505006	OR GAGNÉ
+00505007	JETONS RESTANTS
+00505008	JACKPOT EN OR EN LIGNE
+00505009	ACHETER \n DES JETONS
+
+
+# -------------------------------
+#     0506 - CHAT
+# -------------------------------
+
+00506000	OUVRIR LE CHAT
+00506001	FERMER
+00506002	ENVOYER
+00506003	EFFACER
+00506004	OUVRIR LE CHAT ({0})
+00506005	Écrivez votre message...
+00506006	CHAT : {0} avec {1}
+00506007	Nous sommes désolés \n mais il est impossible de chatter maintenant.
+00506008	{0} a quitté le chat...
+00506009	MONDIAL ({0})
+00506010	AMIS ({0})
+00506011	{0} a rejoint le chat...
+00506012	Échec de la connexion au chat...
+00506013	{0} messages non lus
+
+
+# -------------------------------
+#     0507 - PUSH NOTIFY
+# -------------------------------
+
+00507000	Jouez et gagnez DOUBLE XP au premier DEATHMATCH de la journée!
+00507001	Jouez et gagnez DOUBLE XP au premier ZONE CONTROL de la journée!
+00507002	Une nouvelle RECOMPENSE vous attend !
+00507003	Jouez à DEATHMATCH et gagnez des points d'expérience aujourd'hui !
+00507004	Voulez-vous passer à un niveau supérieur ? Jouez à  ZONE CONTROL maintenant !
+00507005	Jouez à DEATHMATCH et défiez vos amis!
+00507006	Jouez à ZONE CONTROL et vivez une bataille multi-joueurs plus que grandeur nature !
+00507007	Atteignez {0} XP dans le jeu et recevez {1}!
+00507008	Jouez à {0} et recevez {1} ! C’est une offre limitée dans le temps !
+00507009	Jouez à {0} jeux et recevez {1} ! C’est une offre limitée dans le temps !
+00507010	Gagnez {0} jeu et recevez {1} ! C’est une offre limitée dans le temps !
+00507011	Gagnez {0} jeux et recevez {1} ! C’est une offre limitée dans le temps !
+00507012	{0} JETON
+00507013	{0} JETONS
+00507014	{0} OR
+00507015	Surprise BOITE MAGIQUE
+
+
+# -----------------------------
+# 8000 - DateTime formating
+# -----------------------------
+
+# long date format
+#english europe
+08000000	dd/MM/yyyy, HH:mm
+#english america
+08000001	M/dd/yyyy, h:mm tt
+#german
+08000002	dd.MM.yyyy, HH:mm
+#french europe
+08000003	dd/MM/yyyy, HH \h mm
+#french canada
+08000004	D MMMM YYYY, H:mm
+#italian
+08000005	dd/MM/yyyy, H:mm
+#spanish europe
+08000006	dd/MM/yyyy, HH:mm
+#spanish america
+08000007	d/M/yyyy, HH\hmm\min
+#russian
+08000008	dd.MM.yyyy, HH:mm
+#japanese
+08000009	yyyy/MM/dd, H:mm
+#chinese
+08000010	yyyy-MM-dd, H:mm
+#korean
+08000011	yyyy/MM/dd, HH:mm
+#invariant
+08000012	MM/dd/yyyy, h:mm tt
+
+# short date format
+#english europe
+08000100	dd/MM/yyyy
+#english america
+08000101	M/dd/yyyy
+#german
+08000102	dd.MM.yyyy
+#french europe
+08000103	dd/MM/yyyy
+#french canada
+08000104	YYYY-MM-DD
+#italian
+08000105	dd/MM/yyyy
+#spanish europe
+08000106	dd/MM/yyyy
+#spanish america
+08000107	d/M/yyyy
+#russian
+08000108	dd.MM.yyyy
+#japanese
+08000109	yyyy/MM/dd
+#chinese
+08000110	yyyy-MM-dd
+#korean
+08000111	yyyy/MM/dd
+#invariant
+08000112	MM/dd/yyyy
+
+
+# -----------------------------
+# 990xxxx Tutorial
+# -----------------------------
+
+
+09900000	TUTORIEL
+09900001	PASSER
+09900002	PASSER \n TOUT
+09900003	SUIVANT : {0}
+09900004	SUIVANT
+09900005	SE CACHER
+09900006	Verrouillé par tutoriel
+09900007	Le Tutoriel n’est pas interrompu. \n Pour continuer avec le tutoriel, \n vous devez être promu au niveau {0}.
+09900008	Le Tutoriel n’est pas interrompu. \n Pour continuer le tutoriel, \n terminez d’abord votre match.
+09900009	Le Tutoriel n’est pas interrompu. \n Pour continuer le tutoriel, \n commencez un nouveau match.
+09900010	Le Tutoriel n’est pas interrompu. \n Pour continuer le tutoriel, \n gagnez quelques points d’expérience.
+09900011	Le Tutoriel n’est pas interrompu. \n Pour continuer le tutoriel, \n cherchez d’abord {0}.
+
+#		Movement / Button
+
+09901000	Placez vos doigts à la partie gauche \n de l'écran pour contôler les mouvements du joueur.
+09902000	Placez vos doigts à la partie gauche \n de l'écran pour regarder tout autour.
+09903000	Le large bouton situé au coin droit inférieur \ est utilisé pour tirer votre arme
+09903001	et intéragir avec les objets dans le monde.
+09904000	Accédez au paneau de configuration près des lasers.
+
+#		Interactions
+
+09905000	Les icônes telles que celle-ci représentent des objets intéractifs.
+09906000	Vous pouvez interagir avec ces objets en cliquant sur le large bouton
+09906001	ou en cliquant sur l'icône en question.
+
+#		Ammobox
+
+09907000	Dès fois, vous pouvez trouver des ressources utiles, telles que des munitions.
+09908000	Essayez de localiser la boîtes à munitions.
+
+09909000	Bien. Maintenant passons aux exercices de tirs et couverture. \n Allez au portail derrière la statue.
+
+#		Covering
+
+09911000	Vous pouvez prendre une couverture en vous rapprochant d'un obstacle.
+
+09912000	Une fois couvert, vous êtes moins vulnérable au tir de l'énemi.
+09913000	Vous pouvez naviguer dans une couverture en déplaçant le joueur.
+09914000	Certaines couvertures possèdent plusieurs positions de tir.
+09915000	Vous pouvez quitter une couverture en reculant
+09916000	et sauter par dessus une couverture en avançant.
+
+#		Shooting
+
+09917000	Lorsque vous êtes prêt, ciblez les cercles jaunes
+09917001	et tirez dessus en appuyant sur le bouton large.
+
+09918000	Jolie. Lorsque vous cliquer sur le plus petit bouton avec les flêches rondes,
+09918001	vous rechargez votre arme.
+09919000	En cliquant sur l'icône de l'arme, vous pouvez changer d'armes
+09919001	si vous en trouvez.
+
+#		Summary
+
+09920000	Et voilà. Il existe des principes de base du jeu.
+09930000	Vous pouvez reviser les commandes dans le menu en cliquant sur le bouton pause
+09930001	situé au coin gauche supérieur de l'écran.
+
+09940000	Et voilà. Amusez-vous bien !
+
+09940001	ACCÉDEZ AU PANEAU DE CONFIGURATION PRÈS DES LASERS
+09940002	ESSAYEZ DE LOCALISER LES BOÎTES DE MUNITIONS
+09940003	ALLEZ AU PORTAIL DERRIÈRE LA STATUE
+09940004	PRENEZ UNE COUVERTURE EN VOUS RAPPROCHANT DE L'OBSTACLE
+09940005	TIREZ SUR LES DEUX CERCLES JAUNES
+
+#		Custom
+
+09950000	Nous voulons attirer votre attention sur le fait \n que la maintenance du serveur pourrait survenir. \n Pour cette raison, l'accès à un quelconque serveur pourrait vous être interdit \n ou vos paramètres de jeu \n ou le compte de jeu pourrait être supprimé. \n\n Nous sommes vraiment désolé pour tout inconvénient. \n\n Vous pouvez nous envoyer vos commentaires et opinions \n en utilisant le bouton « Feedback ». \n\n Merci.
+
+09960081	Bienvenue !
+09960082	Même si vous êtes le plus dur à cuire des soldats du groupe, vous devriez prendre le temps de consulter ce tutoriel !  \n Suivez les boutons qui clignotent !
+
+09960091	Profil
+
+09960001	Premier jeu
+
+09960011	Commencer le jeu
+
+09960031	Statistiques
+
+09960041	Tableaux des scores
+
+09960101	Magasin
+09960102	N'oubliez pas de vous arrêter au magasin ! Vous y trouverez toutes sortes d'articles utiles, des casques de protection aux nouvelles combinaisons en passant par des paquets à prix spéciaux. Vous pouvez même collecter du crédit et de l'or gratuitement !
+
+09960071	Passez au rang suivant !
+09960072	Plus votre rang est élevé, mieux vous serez équipé pour rechercher et utiliser vos armes. \n Vous demandez quelle est l'étape suivante ? \n Battez-vous et accédez au Rang 2 !
+
+09960051	Rechercher
+
+09960061	S'équiper
+
+09960701	Passez au rang suivant
+09960702	Vous n'êtes pas mauvais Joe, mais vous pourriez être meilleur ! \n Battez-vous et accédez au Rang 4 où vous pouvez débloquer le nouveau mode de jeu, Zone Control !
+
+09960601	Zone Control !
+09960602	Un nouveau mode de JEU a été débloqué ! \n Les équipes bleues et rouges se battent l'une contre l'autre afin de contrôler toutes les zones de la carte. L'équipe qui n'a plus de zones ou de tickets Spawn perd. Tactique, gratifiant et extrêmement addictif !
+
+09960201	Amis
+
+09960301	Chat
+09960302	À moins que vous ne soyez un tueur cruel mais timide, vous voudrez probablement utilisez la fonction de CHAT. Planifiez vos combats avec vos amis ou bavardez simplement avec d'autres joueurs...
+
+09960401	Terminé
+09960402	Vous avez terminé le tutoriel... \n À présent, vous êtes un professionnel, rendez-vous sur le champ de bataille et faites un carnage ! \n Pour mieux massacrer vos ennemis, recherchez de meilleurs armes, articles et perks. Et le plus important : entraînez-vous, encore et encore !  \n Amusez-vous avec Shadowgun Deadzone !
+
+# -----------------------------
+# 9999xxxx	Achievements
+# -----------------------------
+
+09999000	RÉALISATION DÉSACTIVÉE :
+09999001	« Bienvenue Hug »
+09999002	« Creuser plus profondément »
+09999003	« Rencontre »
+09999004	« Réunion froide »
+09999005	« Lumière du jour très loin »
+09999006	« Livraison spéciale »
+09999007	« Heure du plan B »
+09999008	« Roues d'acier »
+09999009	« Dernière assemblage »
+09999010	« Prendre les chose simplement »
+09999011	« Chasseur saisonnier »
+09999012	« Shadowgun »
+09999013	« Collecteur »
+
