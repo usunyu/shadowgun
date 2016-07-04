@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &187204
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 407798}
+  - 20: {fileID: 2050592}
+  - 81: {fileID: 8198312}
+  - 114: {fileID: 11419754}
+  m_Layer: 0
+  m_Name: VRPanoramaCamera
+  m_TagString: MainCamera
+  m_Icon: {fileID: 2800000, guid: 91977e70d1a29be42aff2b2c6c000188, type: 3}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &407798
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 187204}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!20 &2050592
+Camera:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 187204}
+  m_Enabled: 1
+  serializedVersion: 2
+  m_ClearFlags: 1
+  m_BackGroundColor: {r: .192156866, g: .301960796, b: .474509805, a: .0196078438}
+  m_NormalizedViewPortRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+  near clip plane: .100000001
+  far clip plane: 1000
+  field of view: 71
+  orthographic: 0
+  orthographic size: 5
+  m_Depth: 0
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RenderingPath: 3
+  m_TargetTexture: {fileID: 0}
+  m_TargetDisplay: 0
+  m_TargetEye: 3
+  m_HDR: 1
+  m_OcclusionCulling: 1
+  m_StereoConvergence: 10
+  m_StereoSeparation: .0219999999
+  m_StereoMirrorMode: 0
+--- !u!81 &8198312
+AudioListener:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 187204}
+  m_Enabled: 1
+--- !u!114 &11419754
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 187204}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad14659ec0c39d549b281858baf1afbe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cubemapSize: 128
+  oneFacePerFrame: 0
+  cubeCam: {fileID: 0}
+  captureAudio: 0
+  alignPanoramaWithHorizont: 1
+  panoramaType: 1
+  ImageFormatType: 0
+  Folder: VR_Panorama
+  FPS: 25
+  resolution: 2048
+  resolutionH: 720
+  NumberOfFramesToRender: 100
+  renderFromFrame: 0
+  sequenceLength: 
+  IPDistance: .0659999996
+  EnvironmentDistance: 3
+  openDestinationFolder: 1
+  encodeToMp4: 1
+  Mp4Bitrate: 12000
+  renderQuality: 16
+  formatString: .jpg"
+  mailme: 0
+  _mailto: name@domain.com
+  _pass: 
+  _mailfrom: name@gmail.com
+  _prefix: img
+  RenderInfo: 20
+  bufferSize: 0
+  numBuffers: 0
+  recOutput: 0
+  depth: 0
+  depthBufferSize: 0
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 0}
+      propertyPath: centralHeadPivot
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: m_RenderingPath
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: m_Depth
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: m_HDR
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 187204}
+  m_IsPrefabParent: 1
